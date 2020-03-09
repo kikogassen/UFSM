@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<new-doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="composer.xsd">
+	<target>poema_result</target>
+	<part>
+		<source>poema.xml</source>
+		<container>quadra4_verso3</container>
+		<query-set>
+			<query>
+				<qexp>quadra[last()]/verso[3]</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>poema.xml</source>
+		<container>nomes</container>
+		<query-set>
+			<query>
+				<qexp>//nome</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>poema.xml</source>
+		<container>terno2</container>
+		<query-set>
+			<query>
+				<qexp>terno[2]/verso</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>poema.xml</source>
+		<container>nomes_lugares_L</container>
+		<query-set>
+			<query>
+				<qexp>nome[starts-with(.,'L')] | lugar[starts-with(.,'L')]</qexp>
+			</query>
+		</query-set>
+	</part>
+</new-doc>

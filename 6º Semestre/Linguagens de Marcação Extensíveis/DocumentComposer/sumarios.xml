@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sumarios>
+	<disciplina>XML: Processamento Estruturado de Documentos</disciplina>
+	<professor>
+		<nome>Giovani Rubert Librelotto</nome>
+		<email>giovani@unifra.br</email>
+		<url>http://www.unifra.br/professores/giovani</url>
+	</professor>
+	<aula tipo="T">
+		<data>2000.10.02</data>
+		<sumario>
+			<p>
+		  Anotação de Documentos: um pouco de história.</p>
+			<p>
+		  Linguagens de Anotação como meta-linguagens: o SGML e o XML.</p>
+			<p>
+		  Anotação Descritiva. Ciclo de vida dos documentos estruturados.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.10.04</data>
+		<sumario>
+			<p>
+		  O que é um documento XML: componentes.</p>
+			<p>
+		  Qual o papel dos DTDs: conceito de documento válido.</p>
+			<p>
+		  Introdução à análise documental e à construção de DTDs.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.10.09</data>
+		<sumario>
+			<p>
+		  Construção de DTDs: os sumários e o poema.</p>
+			<p>
+		  Introdução à transformação de documentos XML: Perl e o módulo XML::DT.</p>
+			<p>
+		  Alguns exemplos de transformações com o XML::DT.</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.10.11</data>
+		<sumario>
+			<p>
+		  Anotação de um soneto de álvaro de Campos utilizando as anotações definidas na aula anterior.</p>
+			<p>
+		  Utilização do XML::DT para gerar algumas scripts de transformação: 
+		  <lista>
+					<item>
+						<p>
+				  Geração de HTML.</p>
+					</item>
+					<item>
+						<p>
+				  Acrescento de um atributo de identificação a todos os elementos.</p>
+					</item>
+					<item>
+						<p>
+				  Construção de uma lista estatística de elementos e respectivos números de ocorrências.</p>
+					</item>
+				</lista>
+			</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.10.16</data>
+		<sumario>
+			<p>
+		  Estrutura física versus estrutura lógica de um documento: entidades e DTDs. </p>
+			<p>
+		  Os vários tipos de entidade: internas e externas.</p>
+			<p>
+		  Componentes básicos de um DTD: elementos e atributos.</p>
+			<p>
+		  Os vários tipos de atributos.</p>
+			<p>
+		  Diferenças entre o SGML e o XML: o que se ganhou, o que se perdeu.</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.10.18</data>
+		<sumario>
+			<p>
+		  Resolução da ficha teórico prática número 2 no laboratório.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.10.23</data>
+		<sumario>
+			<p>
+		  Desenvolvimento de DTDs: o DTD para o relatório de PED.</p>
+			<p>
+		  Utilização de entidades paramétricas no desenvolvimento de DTDs.</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.10.25</data>
+		<sumario>
+			<p>
+		  Validação de documentos com o SP: nsgmls.</p>
+			<p>
+		  Transformação de Documentos SGML em documentos XML: o sx e a respectiva configuração.</p>
+			<p>
+		  Geração semi-automática de vários formatos usando o módulo Perl XML::DT.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.10.30</data>
+		<sumario>
+			<p>
+		  Alguns exercicícios de desenvolvimento de DTDs: o inventário das cartas.</p>
+			<p>
+		  Problemas na normalização de conteúdos: possíveis soluções e respectiva implementação em XML.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.11.06</data>
+		<sumario>
+			<p>
+		  Introdução ao processamento de documentos com o Omnimark.</p>
+			<p>
+		  Modelo de processamento baseado em eventos.</p>
+			<p>
+		  Os construtores básicos de um programa Omnimark.</p>
+			<p>
+		  A norma XPath: introdução e descrição da linguagem de padrões; alguns exemplos práticos de utilização.</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.11.08</data>
+		<sumario>
+			<p>
+		  Utilização do Omnimark para realizar algumas tarefas: validação de documentos com o respectivo DTD; geração de páginas HTML; geração de LaTeX para o DTD do relatório de PED.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.11.13</data>
+		<sumario>
+			<p>
+		  Introdução às stylesheets.</p>
+			<p>
+		  O DSSSL e o respectivo modelo de processamento; componentes do DSSSL e exemplos da sua utilização.</p>
+			<p>
+		  Introdção ao XSL com alguns exemplos: geração de uma página HTML; inclusão de informação dependente do sistema; transformação de documentos; criação de índices.</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.11.15</data>
+		<sumario>
+			<p>
+		  Resolução da ficha teórico-prática número 5: 
+		  <lista>
+					<item>
+						<p>
+				  Transformação de documentos XML utilizando o Omnimark: o glossário arqueológico.</p>
+					</item>
+					<item>
+						<p>
+				  Construção duma stylesheet XSL para apresentar o glossário numa tabela HTML.</p>
+					</item>
+				</lista>
+			</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.11.20</data>
+		<sumario>
+			<p>
+		  XSLT: 
+		  <lista>
+					<item>
+						<p>
+				  os vários elementos da linguagem.</p>
+					</item>
+					<item>
+						<p>
+				  combinação dos vários elementos na construção de stylesheets.</p>
+						<p>
+				  extensões e funções externas.</p>
+					</item>
+				</lista>
+			</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.11.22</data>
+		<sumario>
+			<p>
+		  Resolução da ficha teórico-prática número 6.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.11.27</data>
+		<sumario>
+			<p>
+		  XSL: 
+		  <lista>
+					<item>
+						<p>
+				  subrotinas</p>
+					</item>
+					<item>
+						<p>
+				  variáveis/constantes</p>
+					</item>
+					<item>
+						<p>
+				  parâmetros</p>
+					</item>
+				</lista>
+			</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.11.29</data>
+		<sumario>
+			<p>
+		  Resolução da ficha teórico-prática número 7.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.12.04</data>
+		<sumario>
+			<p>
+		  XML e Bases de Dados.</p>
+			<p>
+		  Dados semi-estruturados e o problema da normalização.</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.12.06</data>
+		<sumario>
+			<p>
+		  Continuação da resolução da ficha teórico-prática número 7.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.12.11</data>
+		<sumario>
+			<p>
+		  XML e áreas de aplicação: EAD, DocBook, TEI, MathML, ChessML, ...</p>
+			<p>
+		  Normas relacionadas em desenvolvimento: XLink, XPointer, NameSpaces, Topic Maps, ...</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.12.13</data>
+		<sumario>
+			<p>
+		  Resolução com XSL e XML::DT de alguns problemas "especiais" que surgiram durante o semestre: a inversão de matrizes, geração de índices.</p>
+		</sumario>
+	</aula>
+	<aula tipo="T">
+		<data>2000.12.18</data>
+		<sumario>
+			<p>
+		  Entrega do trabalho prático.</p>
+		</sumario>
+	</aula>
+	<aula>
+		<data>2000.12.20</data>
+		<sumario>
+			<p>
+		  Entrega do trabalho prático.</p>
+		</sumario>
+	</aula>
+</sumarios>

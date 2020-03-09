@@ -1,0 +1,67 @@
+﻿  glslprogram.cpp
+  GLUtils.cpp
+  main.cpp
+  PointSprites.cpp
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+..\..\utils\GLUtils.cpp(10): warning C4100: 'param': unreferenced formal parameter
+..\..\utils\GLUtils.cpp(10): warning C4100: 'length': unreferenced formal parameter
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\PointSprites.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file ..\..\utils\glslprogram.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file src\PointSprites.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file src\PointSprites.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file src\main.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file src\main.cpp)
+src\main.cpp(58): warning C4100: 'error': unreferenced formal parameter
+src\main.cpp(64): warning C4459: declaration of 'window' hides global declaration
+  src\main.cpp(33): note: see declaration of 'window'
+src\main.cpp(64): warning C4100: 'mods': unreferenced formal parameter
+src\main.cpp(64): warning C4100: 'scancode': unreferenced formal parameter
+src\main.cpp(137): warning C4316: 'PointSprites': object allocated on the heap may not be aligned 16
+src\PointSprites.cpp(56): warning C4100: 'deltaTime': unreferenced formal parameter
+src\PointSprites.cpp(113): warning C4100: 'y': unreferenced formal parameter
+src\PointSprites.cpp(113): warning C4100: 'x': unreferenced formal parameter
+src\PointSprites.cpp(121): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+src\PointSprites.cpp(126): warning C4018: '<': signed/unsigned mismatch
+src\PointSprites.cpp(137): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  glsl40_geometry_shader_point_sprites.vcxproj -> D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\bin\glsl40_geometry_shader_point_sprites.exe
+  glsl40_geometry_shader_point_sprites.vcxproj -> D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\bin\glsl40_geometry_shader_point_sprites.pdb (Partial PDB)
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_geometry_shader_point_sprites\shader\glsl40_point_sprites.frag
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_geometry_shader_point_sprites\shader\glsl40_point_sprites.geom
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_geometry_shader_point_sprites\shader\glsl40_point_sprites.vert
+  3 File(s) copied

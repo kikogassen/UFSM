@@ -1,0 +1,17 @@
+Ajustar Todas
+
+Documento:  C:\Users\kikog\Documents\UFSM\6º Semestre\Modelagem e Simulação\TFinal\RandomNumbers\queue_time.txt
+Arquivo de Dados: C:\Users\kikog\Documents\UFSM\6º Semestre\Modelagem e Simulação\TFinal\RandomNumbers\queue_time.txt
+
+
+Função       Erro Quadrático
+-----------------------
+Beta           0.0015
+Uniforme        0.00349
+Weibull        0.00415
+Normal         0.0044
+Gama          0.00489
+Erlang         0.00546
+Lognormal      0.00649
+Triangular     0.00876
+Exponencial    0.0148

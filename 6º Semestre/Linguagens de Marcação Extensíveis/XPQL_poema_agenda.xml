@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<new-doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="composer.xsd">
+	<target>main</target>
+	<part>
+		<source>poema.xml</source>
+		<container>poema</container>
+		<query-set>
+			<query>
+				<container>q1</container>
+				<qexp>quadra[1]/verso[2]</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>agenda.xml</source>
+		<container>agenda</container>
+		<query-set>
+			<query>
+				<qexp>//entrada[@tipo='empresa']</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>poema.xml</source>
+		<query-set>
+			<query>
+				<container>nomes</container>
+				<qexp>//nome</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>agenda.xml</source>
+		<query-set>
+			<query>
+				<container>nomes</container>
+				<qexp>//nome</qexp>
+			</query>
+		</query-set>
+	</part>	
+</new-doc>

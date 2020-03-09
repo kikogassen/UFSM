@@ -1,0 +1,626 @@
+S.O. Modernos
+A. Tanenbaum
+Pearson
+3ª ed.
+
+AULA 1
+
+Sistema Operacional é um conjunto de software que permite usar de forma mais fácil um hardware que por si só é complicado; ele virtualiza o hardware
+
+Única diferença entre comunicação app-hw de pcs diferentes é o driver, que possibilita comnicação do SO com o Hardware
+
+Interface App-SO é sempre igual. Ex: read, write num disco
+Interface SO-HW tem várias. Ex: porta USB, pela rede, por cabo sata
+
+Os programas são isolados um a um no mesmo SO para não ter acesso um ao outro
+
+Gerenciar recursos através da divisão de HW entre os APPs
+
+AULA 2
+
+naquela época SO era em assembly
+
+sobreviveram DOS da microsoft e MAC da apple
+
+microsoft surgiu fazendo compiladores fortran cobol e base pra cpm
+
+                    P
+                   / \
+                  M  E/S
+
+Processador busca instrução, decodifica e executa: BDE
+Pipeline
+Superescalar - OOO
+hyperthread
+multicore
+
+interrupção:
+tem 2 PCs e 2 bancos de registradores, aí quando interrompe a execução do programa e vai executar o SO, usa os endereços do PC2 e os registradores 2 pra não usar o mesmo registrador usado pelo programa
+se executar uma instrução não permitida, o processador simula uma interrupção
+
+SO quem deixa o programa acessar a memória e a E/S, ou seja, não deixa os programas tomar conta da memória e E/S
+
+AULA 3
+
+Hierarquia de memórias:
+Registradores - dezenas com 4 bytes cada
+-----------------------------------------
+----------------------------------------- compilador que otimiza se o dado vai estar em registrador ou no resto da memória
+-----------------------------------------
+Cache - surgiu da diferença de velocidade entre RAM e CPU, melhorando a velocidade de comunicação CPU-RAM - tem pelo menos 3 níveis de cache (L1, L2 e L3) - entre cada nível é o hardware
+----------------------------------------- hardware faz a divisão
+Memória principal (RAM)
+-----------------------------------------
+Memória secundária (HD)
+
+Tabela de páginas tá na RAM. TLB (cache da tabela de páginas) tá na MMU
+
+pra acessar aleatoriamente a memória principal, faz primeiro o acesso na linha, depois na coluna
+pra acessar sequencialmente a memória principal, faz primeiro o acesso na linha, depois vai acessando cada coluna
+
+               |--E/S programada com vários tentando acessar é complicado, aí implementaram filas pra acesso
+SO who cares___|  E/S por interrupção
+               |  DMA
+               |--Memória compartilhada pra streaming de vídeo, já que usa muito os barramentos de dados
+
+Deadlock (IMPORTANTE) - quando algum programa precisa de dois recursos pra fazer outro, ele pega um e tranca pra ngm mais acessar e quando vai pegar o outro, outro programa fez a mesma coisa pegando esse outro pra fazer algo e também trancou. Ou seja, ngm fez nada errado e vai trancar eternamente eles.
+
+SO só funciona por reação. Ele reage quando algo dá errado e ele arruma, ou ele reage a pedidos de software.
+
+sobrecarga é o tempo em que o SO tá atuando, tempo esse que não é utilizado para rodar códigos sobre os programas
+
+BIOS e ROM garantem a proteção do sistema antes do SO iniciar
+
+AULA 4
+
+SO no início era chamadas de sistema, depois se notou a necessidade de proteção do sistema.
+
+processadores tem flag pra modo de execução; os da intel não são só de 1 bit pq tem vários modos
+
+tem uma instrução que vai pras instruções do SO que liga a flag de instruções privilegiadas e tem outra que sai desse modo que desliga
+
+TRAP é a instrução que chama o SO
+
+open e close de arquivos fazem meio que uma verificação do arquivo no disco, se tá tudo certo e tal
+
+read e write não precisam se preocupar com isso, só acessam o disco e fazem o que precisam
+
+processo é uma execução de um programa. Programa é a receita de bolo, que é imutável, enquanto que um processo é uma execução de um programa, que pode ser mutável
+
+int a;
+a = 5;
+fork();
+printf ("%d", a); -> vai mostrar duas vezes, pois o fork divide em 2 o mesmo programa
+
+int a;
+a = 5;
+if (fork()==0){
+	printf ("%d", a); -> executa num processo
+} else {
+	printf ("%d", a); -> executa em outro processo
+}
+
+processos podem executar ao mesmo tempo, mas a partir do momento que tu cria ela passa a ter 2 programas que não compartilham memória, ou seja, vai ter duas variáveis a
+
+threads compartilham a mesma memória, ou seja, se eu mudar o a na linha 98 pode ser que o printf da linha 100 mostre o novo valor ou o antigo valor
+
+exec destrói o programa que tava sendo executado no processo e começa a executar outro programa no mesmo processo, destruindo todas as variáveis e tal
+
+INTERFACE UNIX PRA PROCESSOS:
+
+fork
+exec
+wait
+getpi
+getppid
+exit
+kill
+signal
+
+AULA 5
+
+Capítulo 2 - Processos
+
+pra trocar de programa na mesma CPU, precisa salvar o PC, estado e registradores da CPU que tava rodando o programa, pra depois disso trocar de programa na CPU, pegando esses novos valores - chama-se troca de contexto
+
+SO reentrante: pode interromper o SO enquanto o mesmo faz algo pra fazer outra coisa mais urgente. Pra isso, precisa salvar o estado do SO no momento da segunda interrupção
+
+se foi interrompido enquanto tava em modo supervisor, era o SO. Se foi em modo programador, era um programa. quem diz isso é o bit de estado
+
+frequência de interrupção: num sistema pra usuário, é melhor ser mais frequente pra atualizar mais rápido. 
+
+se cria um processo especial pra iniciar os demais processos na inicialização
+
+quando o filho morre, um sinal é mandado pro pai e ele faz o que quiser
+
+estado de processo:
+
+Execução: indica que o processo está rodando na CPU. O número máximo de processos em execução é o número de CPUs da máquina
+Bloqueado: Estado lógico interno de espera: o processo não pode continuar a execução. Quem decide isso é o próprio processo
+Pronto: ação externa ao processo, ele não tá executando pq não tem recursos suficientes no momento. Quem decide isso é o escalonador
+
+IMAGEM TÁ NA PASTA
+
+tem autores que botam uma flecha de bloqueado pra pronto quando o processo é desbloqueado e ele é o próximo a ser executado
+
+dá pra botar flecha de pronto pra bloqueado quando esse pronto vai ser executado, mas ele é bloqueado enquanto sua memória está em disco e tem que esperar o SO fazer o swap
+
+tabela de processos: guarda as infos dos processos que estão em execução
+
+como ocorre a troca de contexto:
+1 - HW recebe a interrupção e tem que fazer o mínimo necessário pra salvar as infos
+2 - HW desvia instrução
+3 - SO salvar o estado da CPU - assembly
+4 - configura pilha de execução - assembly
+5 - desvia o tratador: executa código do SO
+6 - executa o escalonador
+7 - volta pro assembly - recuperação de contexto
+8 - reti - retorno de interrupção - HW
+
+AULA 6
+
+pra saber se a CPU tá sendo usada, multiplica as probabilidades de não estarem sendo usadas, fazendo 1-esse valor
+
+0.8 é a chance de um processo não estar utilizando a CPU:
+
+taxa de utilização da CPU com 1 processo: 20%
+com 2 processos: 36%
+
+sistema desktop se aproxima de 1000hz de frequência de interrupções
+servidor se aproxima de 60hz de frequência de interrupções
+
+Threads:
+Threads compartilham a mesma memória, o mesmo processo. Processos não compartilham a mesma memória, aí não é viável em alguns casos.
+
+Tanto thread quanto processo não tem garantia de serem executados EXATAMENTE em paralelo
+
+Custo de destruição de um processo é muito maior que o custo de destruição de uma thread
+
+Por exemplo, um Word da vida precisa ser executado com muitas threads, pra não trancar no caso de ter que formatar um monte de coisa ao mesmo tempo, e não pode ser executado com vários processos pois precisa compartilhar a mesma memória (texto)
+
+Cada thread precisa de algumas informações guardadas juntos com ela, e não na info do process. Ex: PC (já que cada thread executa um trecho de código), Pilha (já que cada uma tem variáveis locais) e estado da CPU
+
+mudança de limite do monte (região da memória do malloc) é uma chamada de SO
+
+setjump e longjump criam threads mas não tem paralelismo, parecem corotina. Pra ficarem paralelas, precisa comunicar o SO, já que ele ainda tem o controle da CPU.
+
+AULA 7
+
+Comunicação entre processos ou threads
+
+- troca de dados
+- conflito no acesso a esses dados. Solução: exclusão de uma região crítica quando outra já está acessando
+- sincronização
+
+região crítica = região de código que é crítico pois acessa dados compartilhados
+elas precisam ser identificadas, minimizadas e executar uma exclusão mútua de algum das threads
+
+entrada na região crítica: 
+while (lock);
+lock = true;
+
+saída:
+lock = false;
+
+mas não resolve, pois entre a linha 199 e 200 pode outro processo entrar antes do primeiro processo botar lock = true;
+
+princípios pra resolver conflito:
+1. exclusão mútua
+2. não depender de velocidade relativa da CPU, caso só funcione quando o processador é rápido pra executar 199 e 200
+3. não bloquear outro processo quando fora da região crítica
+4. não pode haver espera por tempo indefinido
+
+busy waiting - não sei tem que pesquisar
+
+Solução de Peterson
+
+int vez
+
+bool[num_processos] interessados
+
+entra(p)
+	o = 1-p;
+	inter[p] = true;
+	vez = p;
+	while (vez==p && interessados[o]);
+
+sai(p)
+	interessados[p] = false;
+
+AULA 8
+
+produtor -> buffer limitado -> consumidor
+
+produtor:
+dp = produz();
+if (count==max)
+	sleep;
+insere(dp);
+count++;
+if (count==1)
+	wakeup(c);
+
+consumidor:
+if (count==0)
+	sleep;
+dc = retira();
+count--;
+if (count==n-1)
+	wakeup(p);
+consome(dc);
+
+essa solução ainda dá problema de sincronização, pois o count é compartilhado e entre a decisão de dormir e a dormida pode ser que o outro lado execute o wakeup, aí ele vai dormir e o outro depois de um tempo também vai dormir e trava tudo
+
+solução: Semáforo
+
+int 
+P ou down() -> decrementa o int, não deixa ficar negativo, se for ficar negativo bloqueia o processo
+V ou up() -> incrementa
+
+produtor:
+dp = produz();
+down(s2);
+down(m);
+insere(dp);
+up(m);
+up(s1);
+
+consumidor:
+down(s1);
+down(m); --> semáforo pra retirada e inserção no buffer, impedindo que outro processo retire ou insira enquanto esse está retirando ou inserindo. m começa em 1
+dc = retira();
+up(m);
+up(s2);
+consome(dc);
+
+mutex - lock, unlock - parece um semáforo mas só tem exclusão mútua
+
+monitor x {
+	variáveis
+	funções
+}
+
+variável de condição
+	wait
+	signal
+
+produtor:
+dp = produz();
+mon.insere(dp);
+
+consumidor:
+dc = mon.remove();
+consome(dc);
+
+SÓ TEM PARALELISMO NA PRODUÇÃO E NO CONSUMO, O QUE É IMPORTANTE. NO MONITOR NÃO TEM PARALELISMO, GARANTINDO A SINCRONIZAÇÃO
+
+monitor mon {
+	"buffer"
+	int ct;
+	var_cond cheio, vazio;
+	insere(d){
+		if (ct=max) -> trocar por while
+			cheio.wait(); --> libera pra outro processo entra na variável monitor
+		"inserção"
+		if (ct==1)
+			vazio.signal(); --> sinaliza a variável de condição, se tá dormindo é acordada
+	}
+}
+
+AULA 9
+
+Troca de mensagens:
+
+não tem memória compartilhada, só tem mensagens entre as threads
+
+os anteriores tem memória compartilhada, mutex, monitor, semáforo
+
+é o mecanismo mais comum de sincronização em sistemas distribuídos e clusters
+
+send(d, m)
+m = receive(o)
+
+produtor:
+dado = produz()
+receive(consumidor)
+send(consumidor, dado)
+
+consumidor:
+dado = receive(produtor)
+send(produtor, null)
+consome(d)
+
+funciona com receive bloqueante
+
+chegou(i, n)
+
+	for j
+		if j!=i
+			send(j)
+
+	for j
+		if j!=i
+			receive(j)
+
+implementação de mensagens usando barreiras: funciona quando tem pouco processos, pq pra n processos há n(n-1) mensagens trocadas na rede. O receive fica esperando todas as mensagens dos n processos chegar.
+
+bck-free
+
+permite comunicação entre processos sem bloquear algum deles
+
+usa um sistema de árvores, apagando ponteiros antes de mudar dados pra não haver problemas.
+
+usa-se tempo máximo pra uma thread ficar no nó, pra quando uma thread apagar um ponteiro esperar esse tempo máximo antes de apagar os dados filhos desse ponteiro
+
+se o tempo gasto em sincronização se compara ao tempo gasto em produção e consumo, o sistema é ruim
+
+num buffer circular:
+
+leitura:
+while (pr==pi)
+	yield();
+d = b[pr]; --> aqui dá problema se tiver mais de 1 consumidor
+pr = incr(pr);
+return d;
+
+inserção:
+while (pr = incr(pi))
+	yield();
+b[pi] = d; --> aqui dá problema se tiver mais de 1 produtor
+pi = incr(pi);
+
+a linha 370 tem que ser depois da 369, pq se tu incrementar antes de botar o dado, pode ser que alguém leia no endereço novo antes do dado estar lá. Com cache também dá problema
+
+ESTUDAR MUTEX
+
+problemas clássicos de comunicação entre processos
+
+JANTAR DOS FILÓSOFOS:
+
+filósofos = processos, sentados numa mesa redonda pra comer
+
+while (1)
+	pensa()
+	pega_garfo(i)
+	pega_garfo(i+1)
+	come()
+	libera_garfo(i)
+	libera_garfo(i+1)
+
+n funciona, pq entre as pegadas de garfo pode ser que os outros peguem. A solução é pega_garfos(i)
+
+pega_garfos(i)
+	lock(m);
+	estado[i] = fome;
+	testa(i);
+	unlock(m);
+	down(s[i]);
+
+libera_garfos(i)
+	lock(m);
+	estado[i] = pensa;
+	testa[i-1];
+	testa[i+1];
+	unlock(m);
+
+testa(i)
+	if (estado[i]==fome) && (estado[i+1]!=comendo) && (estado[i-1]!=comendo)
+		estado[i] = comendo;
+		up(s[i]);
+
+nunca bloqueia com o mutex
+
+AULA 10
+
+Leitores + escritores
+
+leitores e escritores tentando acessar banco de dados com dados compartilhados
+
+exclusão mútua entre dois escritores e leitor e escritor
+
+leitor:
+
+lock(m2) -> lock dos leitores
+se cl==0
+	lock(m)
+cl++
+unlock(m2)
+leitura(bd)
+lock(m2)
+cl--
+se cl==0
+	unlock(m)
+unlock(m2) -> unlock dos leitores
+
+escritor:
+
+lock(m)
+escrita(bd)
+unlock(m)
+
+nessa implementação, os leitores tem precedêncida sobre os escritores
+
+Preencher um vetor de cálculos
+
+O vetor tem que ser corretamente preenchido
+Não pode haver threads paradas antes do vetor estar corretamente preenchido
+
+while (i!=n){
+	d = c(i);
+	printf(i, d);
+	i++;
+}
+
+Escalonamento:
+
+seta Exe->Pronto é preenptivo, pois o escalonador pode tirar um processo da CPU sem ele querer.
+
+- preenptivos
+- não preenptivos
+
+- lote (sem contato humano) -> vazão = processos/tempo, tempo de retorno, utilização da CPU
+- interativos (com contato humano) -> tempo de resposta, proporcionalidade
+- tempo real (prazos de execução menores) -> cumprimento de prazos, previsibilidade
+
+justiça: tem que dar mais CPU pra quem mais precisa
+aplicação da política: 
+equilíbrio: conseguir dividir bem os recursos do sistema
+
+FCFS = fila - escalonador mais simples
+Sortest Job First - não preenptivo
+
+Processos com tempos: 4 3 3 1
+Tempo de retorno em FCFS: 4 7 10 11, média 8
+Tempo de retorno em SJF: 1 4 7 11, média 5,75 -> ideal pra tempo de retorno
+
+Menor tempo restante:
+
+Por prioridades:
+filas múltiplas
+próximo mais curto, envelhecimento
+escalonamento garantido
+loteria
+
+AULA 11
+
+n fui
+
+AULA 12
+
+Deadlocks - conjunto de processos está em deadlock se cada processo desse conjunto está bloqueado esperando por algo que só pode ser fornecida por outro processo do mesmo conjunto. O único jeito de sair do deadlock é sobre a influência de um agente externo
+
+Recursos: é algo que pode ser usado exclusivamente por um processo. Mutex faz isso, por exemplo
+
+um exemplo de deadlock é o exemplo onde um processo pega o arquivo pra depois pegar a impressora, e outro processo pega a impressora pra depois pegar o arquivo. Quando ambos pegam o primeiro, ambos ficam trancados esperando o segundo ser liberado, mas o outro recurso tá com o outro
+
+recursos preemptiveis são recursos que tu pode tirar de um processo e dar pra outro, suave
+
+Condições pra acontecer um deadlock:
+
+1. exclusão mútua
+2. posse e espera - posse de um recurso e espera de outro
+3. não preempção - não pode ser roubado o recurso que ele tem
+4. espera circular - A tem que esperar B, B tem que esperar C, C tem que esperar B ou A
+
+Soluções:
+1. Ignorar - algoritmo do avestruz
+2. Detecção + recuperação - Deixa que aconteça, detecte que aconteceu e corrija
+3. anulação dinâmica - percebe em tempo de execução que a alocação de um recurso pode causar um deadlock e não deixa acontecer
+4. prevenção estática - modelar o sistema onde não haja possibilidade de ocorrer um deadlock, visto que se sabem as condições de ocorrer um deadlock
+
+Recuperação:
+Matar um processo
+Preempção
+
+AULA 13
+
+Algoritmo do banqueiro - Anulação dinâmica - Usa vetor de recursos disponíveis, Matriz de alocados, matriz de futuras necessidades (máximo - alocados) e vetor de disponíveis
+
+prevenção estática: tira a exclusão mútua - spool - virtualiza os dispositivos
+tirar espera circular: ordenar recursos e não deixar pegar um recurso anterior a algum recurso já alocado
+
+Buffer compartilhado de dados quaisquer, sem saber quais são os dados que serão botados.
+
+aloca (capac.)
+
+insere (buffer, dado, tamanho do dado)
+t = remove(buffer, dado, tamanho do t)
+
+é fila pra inserção
+
+AULA 14
+
+Bloqueio em duas fases
+
+Deadlock de comunicação: a mensagem se perde. O enviador espera uma resposta e o recebedor espera a mensagem que foi perdida, ou seja, deadlock
+
+Livelock = busy waiting
+
+Inanição/starvation = algum processo que é sempre postergado, um patinho feio no escalonador
+
+1 2 6, 7 escalonamento de tempo real e 8 escalonamento sei lá do que
+
+
+Processo   Executa    Trava    Executa
+A          1          0,5      2
+B          0,5        0,1      1
+C          2          1        1
+
+Quanto tempo de retorno leva o B? 4,35, com 1 processador; 2,1 com 2 processadores
+Pros 3, com 1 processador, 7,5; com 2, 4,5
+
+AULA 15
+
+Semáforo: Down(): decrementa o X SE não for ficar negativo. Se for ficar, não decrementa e tranca
+Up(): se tem processo bloqueado, desbloqueia. Senão, soma 1
+
+FIRST FIT: começa no início da memória, quando achar, aloca
+NEXT FIT: começa na última alocação a procurar um livre
+BEST FIT: vê todos e aloca no menor que caiba
+WORST FIT: vê todos e aloca no maior
+
+SJF: shortest job first
+FCFS: fila, ordem de chegada
+Prioridade
+Circular: todos ao mesmo tempo
+
+Overlay
+
+AULA 16
+
+prova
+
+AULA 17
+
+Endereço virtual: página + deslocamento
+a página vai pra MMU consultar na tabela de páginas (que tá na RAM) e retorna qual quadro ela tá
+Endereço físico: quadro + deslocamento
+
+Cada processo tem sua tabela de páginas gerenciada pelo SO
+
+Tabela de páginas resolve desfragmentação e proteção de memória
+
+TLB = cache da tabela de páginas
+
+AULA 18
+
+Substituição de páginas:
+
+- Algoritmo Ótimo - Olha o futuro e vê qual página vai demorar mais pra ser usada e tira ela. NÃO É IMPLEMENTADO
+
+- NRU - Not Recently Used
+
+Alterado | Acesso
+0        | 0 melhor pra retirar
+0        | 1 3º melhor
+1        | 1 pior
+1        | 0 -> Só acontece se o SO zerar o acesso - 2º melhor
+
+MMU que faz isso
+Escolhe 0 0, pois não precisa gravar em disco e não foi recentemente utilizada.
+
+- FIFO
+
+- 2ª chance - semelhante ao FIFO mas usa o bit de acesso
+
+- LRU - Algoritmo ótimo, só que ao contrário: analisa o passado
+
+- LFU
+
+- Envelhecimento
+
+local vs global
+Controle de carga - PFF
+Thrashing
+Tamanho da página
+
+AULA 19
+
+Limpeza
+
+AULA 20
+
+E/S
+
+AULA 21
+

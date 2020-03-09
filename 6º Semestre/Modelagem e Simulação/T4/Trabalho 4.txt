@@ -1,0 +1,27 @@
+Eduardo J. Mossmann e Frederico H. dos S. Gassen
+
+        Parte 1
+
+Tempo médio dos pedidos: 0.64495
+
+Taxa de ocupação dos funcionários: 
+
+- Funcionário 1: 
+    0.78321
+
+- Funcionário 2: 
+    0.74818
+
+Tamanho médio da fila: 5.0584
+
+
+
+        Parte 2
+
+Custos relativos dos funcionários:
+
+- Funcionário 1: 
+    Ocupado: 62.656 / Livre: 17.343
+
+- Funcionário 2: 
+    Ocupado: 70.869 / Livre: 24.174

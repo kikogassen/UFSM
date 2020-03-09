@@ -1,0 +1,357 @@
+# depslib dependency file v1.0
+1467405732 source:d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1467405838 d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1168267666 source:d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193146156 d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1490702906 source:d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\src\main_cpp.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+
+1490704699 d:\ufsm\disciplinas\computacao grafica\programas\gl_3_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1531743930 source:c:\users\kikog\desktop\teste\teste2\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1555507206 c:\users\kikog\desktop\teste\teste2\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 c:\users\kikog\desktop\teste\teste2\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 c:\users\kikog\desktop\teste\teste2\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 c:\users\kikog\desktop\teste\teste2\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1555521136 source:c:\users\kikog\desktop\teste\teste2\src\main_cpp.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	"gl_canvas2d.h"
+	"Graph.hpp"
+	"Button.hpp"
+	"Structs.hpp"
+
+1555510561 source:c:\users\kikog\desktop\teste\teste2\src\graph.cpp
+	"gl_canvas2d.h"
+	"Graph.hpp"
+
+1555511394 c:\users\kikog\desktop\teste\teste2\src\graph.hpp
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Structs.hpp"
+	<vector>
+	<cmath>
+	<iostream>
+
+1555511450 c:\users\kikog\desktop\teste\teste2\src\structs.hpp
+
+1555511402 source:c:\users\kikog\desktop\teste\teste2\src\button.cpp
+	"gl_canvas2d.h"
+	"Button.hpp"
+
+1555511421 c:\users\kikog\desktop\teste\teste2\src\button.hpp
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Structs.hpp"
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+
+1555511402 source:c:\users\kikog\desktop\teste\t1-fhgassen\src\button.cpp
+	"gl_canvas2d.h"
+	"Button.hpp"
+
+1555507206 c:\users\kikog\desktop\teste\t1-fhgassen\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 c:\users\kikog\desktop\teste\t1-fhgassen\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 c:\users\kikog\desktop\teste\t1-fhgassen\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 c:\users\kikog\desktop\teste\t1-fhgassen\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1555511421 c:\users\kikog\desktop\teste\t1-fhgassen\src\button.hpp
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Structs.hpp"
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+
+1555511450 c:\users\kikog\desktop\teste\t1-fhgassen\src\structs.hpp
+
+1531743930 source:c:\users\kikog\desktop\teste\t1-fhgassen\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1555510561 source:c:\users\kikog\desktop\teste\t1-fhgassen\src\graph.cpp
+	"gl_canvas2d.h"
+	"Graph.hpp"
+
+1555511394 c:\users\kikog\desktop\teste\t1-fhgassen\src\graph.hpp
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Structs.hpp"
+	<vector>
+	<cmath>
+	<iostream>
+
+1555521136 source:c:\users\kikog\desktop\teste\t1-fhgassen\src\main_cpp.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	"gl_canvas2d.h"
+	"Graph.hpp"
+	"Button.hpp"
+	"Structs.hpp"
+
+1555511402 source:c:\users\kikog\desktop\teste\fhgassen\src\button.cpp
+	"gl_canvas2d.h"
+	"Button.hpp"
+
+1555507206 c:\users\kikog\desktop\teste\fhgassen\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 c:\users\kikog\desktop\teste\fhgassen\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 c:\users\kikog\desktop\teste\fhgassen\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 c:\users\kikog\desktop\teste\fhgassen\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1555511421 c:\users\kikog\desktop\teste\fhgassen\src\button.hpp
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Structs.hpp"
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+
+1555511450 c:\users\kikog\desktop\teste\fhgassen\src\structs.hpp
+
+1531743930 source:c:\users\kikog\desktop\teste\fhgassen\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1555510561 source:c:\users\kikog\desktop\teste\fhgassen\src\graph.cpp
+	"gl_canvas2d.h"
+	"Graph.hpp"
+
+1555511394 c:\users\kikog\desktop\teste\fhgassen\src\graph.hpp
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Structs.hpp"
+	<vector>
+	<cmath>
+	<iostream>
+
+1555612787 source:c:\users\kikog\desktop\teste\fhgassen\src\main_cpp.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	"gl_canvas2d.h"
+	"Graph.hpp"
+	"Button.hpp"
+	"Structs.hpp"
+
+1556995157 source:c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1556995156 c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1556995155 source:c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\structs.cpp
+
+1557689603 source:c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\main_cpp.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	"gl_canvas2d.h"
+	"Bicicle.hpp"
+	"Structs.hpp"
+
+1557689437 c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\wheel.hpp
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Structs.hpp"
+	<vector>
+	<cmath>
+	<iostream>
+
+1557007288 c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\structs.hpp
+
+1557689386 source:c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\wheel.cpp
+	"Wheel.hpp"
+
+1557689121 c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\bicicle.hpp
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Structs.hpp"
+	"Wheel.hpp"
+	<vector>
+	<cmath>
+	<iostream>
+
+1557688891 source:c:\users\kikog\documents\ufsm\5º semestre\computação gráfica\t2\teste\fhgassen\src\bicicle.cpp
+	"Bicicle.hpp"
+

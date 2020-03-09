@@ -1,0 +1,97 @@
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :11/05/2019
+Analista: Usuário do Windows                                          Data de revisão do modelo:11/05/2019
+
+Replicação terminada no tempo de      : 8.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .27893     (Insuf)    .12222     1.2476         42    
+Entity 1.NVATime                            .00826     (Insuf)    .00000     .34704         42    
+Entity 1.WaitTime                           .64495     (Insuf)    .00000     13.082         42    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         42    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         42    
+Entity 1.TotalTime                          .69722     (Insuf)    .20595     4.8100         42    
+Entity 1.VACost                             3.0540     (Insuf)    1.2221     13.623         42    
+Entity 1.NVACost                            .09915     (Insuf)    .00000     4.1644         42    
+Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000         42    
+Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000         42    
+Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000         42    
+Entity 1.TotalCost                          3.1531     (Insuf)    1.2221     17.787         42    
+Impressão do pedido.Queue.WaitingTime       .12212     (Insuf)    .00000     .20731          5    
+Impressão do pedido.Queue.WaitingCost       .00000     (Insuf)    .00000     .00000          5    
+Pasta.Queue.WaitingTime                     2.0920     (Insuf)    .00000     3.6131          5    
+Pasta.Queue.WaitingCost                     .00000     (Insuf)    .00000     .00000          5    
+Verificação de crédito.Queue.WaitingTime    .04899     (Insuf)    .00000     .21909         38    
+Verificação de crédito.Queue.WaitingCost    .00000     (Insuf)    .00000     .00000         38    
+Verificação de estoque.Queue.WaitingTime    .22927     (Insuf)    .00000     .61747         47    
+Verificação de estoque.Queue.WaitingCost    .00000     (Insuf)    .00000     .00000         47    
+Redigir email.Queue.WaitingTime             .07872     (Insuf)    .00000     .12231          5    
+Redigir email.Queue.WaitingCost             .00000     (Insuf)    .00000     .00000          5    
+Acesso ao sistema do almoxarifado.Queue.Wa  .08872     (Insuf)    .00000     .23159         32    
+Acesso ao sistema do almoxarifado.Queue.Wa  .00000     (Insuf)    .00000     .00000         32    
+Transporte da pasta.Queue.WaitingTime       .14700     (Insuf)    .14700     .14700          1    
+Transporte da pasta.Queue.WaitingCost       .00000     (Insuf)    .00000     .00000          1    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                5.0584     (Insuf)    .00000     13.000     1.0000    
+Funcionário 2.NumberBusy                    .74818     (Insuf)    .00000     1.0000     1.0000    
+Funcionário 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Funcionário 2.Utilization                   .74818     (Insuf)    .00000     1.0000     1.0000    
+Funcionário 1.NumberBusy                    .78321     (Insuf)    .00000     1.0000     .00000    
+Funcionário 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Funcionário 1.Utilization                   .78321     (Insuf)    .00000     1.0000     .00000    
+Impressão do pedido.Queue.NumberInQueue     .07632     (Insuf)    .00000     1.0000     .00000    
+Pasta.Queue.NumberInQueue                   1.3075     (Insuf)    .00000     5.0000     .00000    
+Verificação de crédito.Queue.NumberInQueue  .23272     (Insuf)    .00000     2.0000     .00000    
+Verificação de estoque.Queue.NumberInQueue  1.3469     (Insuf)    .00000     5.0000     .00000    
+Redigir email.Queue.NumberInQueue           .04920     (Insuf)    .00000     1.0000     .00000    
+Acesso ao sistema do almoxarifado.Queue.Nu  .35487     (Insuf)    .00000     2.0000     .00000    
+Transporte da pasta.Queue.NumberInQueue     .01837     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           48.000    
+Entity 1.NumberOut                          47.000    
+Funcionário 2.NumberSeized                  81.000    
+Funcionário 2.ScheduledUtilization          .74818    
+Funcionário 2.BusyCost                      70.869    
+Funcionário 2.IdleCost                      24.174    
+Funcionário 2.UsageCost                     .00000    
+Funcionário 1.NumberSeized                  47.000    
+Funcionário 1.ScheduledUtilization          .78321    
+Funcionário 1.BusyCost                      62.656    
+Funcionário 1.IdleCost                      17.343    
+Funcionário 1.UsageCost                     .00000    
+All Entities.VACost                         129.36    
+All Entities.NVACost                        4.1644    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      .00000    
+All Entities.TotalCost                      133.52    
+All Resources.BusyCost                      133.52    
+All Resources.IdleCost                      41.517    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     175.04    
+System.TotalCost                            175.04    
+System.NumberOut                            42.000    
+
+
+Tempo executando a simulação: 0.02 minutos.
+Simulação completada.

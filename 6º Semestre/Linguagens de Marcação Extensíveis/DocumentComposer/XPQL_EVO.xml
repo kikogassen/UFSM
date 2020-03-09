@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<new-doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="composer.xsd">
+	<target>doc-result</target>
+	<part>
+		<source>arq-son-EVO.xml</source>
+		<container>result-set</container>
+		<query-set>	
+			<query>
+				<container>result</container>
+				<qexp>//tit[contains(.,'Jesus')]</qexp>
+			</query>
+			<query>
+				<container>result</container>
+				<qexp>//musico</qexp>
+			</query>
+			<query>
+				<container>result</container>
+				<qexp>//doc/tit[contains(../local,'Castelo Branco')]</qexp>
+			</query>
+		</query-set>			
+	</part>
+</new-doc>
+

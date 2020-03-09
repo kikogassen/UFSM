@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1383233912 source:d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\src\gimbal.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdio.h>
+	"global.h"
+
+924727706 d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\include\gl\gl.h
+
+1254353242 d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\include\gl\glu.h
+	<GL/gl.h>
+
+1233940870 d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\src\global.h
+	"Quaternion.h"
+	"Matrix.h"
+
+1233936274 d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\src\quaternion.h
+	"Vector.h"
+
+1233921230 d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\src\vector.h
+	<math.h>
+	<stdio.h>
+
+1373985990 d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\src\matrix.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1233940616 source:d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\src\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1233944044 source:d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\src\rotacao.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"Quaternion.h"
+	"global.h"
+	"Matrix.h"
+
+1233928478 source:d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 2.x\gl_9_quaternions\src\util.cpp
+	<GL/glut.h>
+	"global.h"
+

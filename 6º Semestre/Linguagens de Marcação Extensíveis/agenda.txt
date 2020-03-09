@@ -1,0 +1,7 @@
+1) //entrada
+2) //grupo/entrada
+3) //entrada[starts-with(telefone, '555')]
+4) //grupo[count(*)>=4]/@gid
+5) //grupo//nome, //entrada[@id = //grupo/ref/@entref]/nome
+6) /agenda/*[name() != 'grupo']/telefone
+7) //grupo[@gid='familia']//nome, //entrada[@id = //grupo[@gid='familia']/ref/@entref]/nome

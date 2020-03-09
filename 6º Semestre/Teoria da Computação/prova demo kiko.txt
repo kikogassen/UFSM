@@ -1,0 +1,54 @@
+Prova demo:
+
+1) e, pois a classe de linguagens reconhecida por uma MT são as linguagens recursivamente enumeráveis
+
+2) I: Verdadeiro, pois a única diferença entre um enumerador e uma MT é que o enumerador tem uma impressora anexa, mas seu poder de expressão é o mesmo
+II: Falso, pois para a prova precisamos construir uma MT que decide essa linguagem
+III: Falso, pois somente o ocntrário é verdadeiro
+
+Alternativa d
+
+3) Uma MT que resolve o seguinte problema pode ser a seguinte:
+1. Selecione um nó inicial
+2. Marque este nó inicial
+3. Para cada aresta que possua apenas um nó marcado, marque o outro nó.
+4. Repita o passo 3 até não marcar mais nenhum nó.
+5. Se todos os nós estiverem marcados, aceite. Senão, rejeite.
+
+4) Uma MT que resolve o seguinte problema pode ser a seguinte:
+1. Selecione um estado inicial.
+2. Marque esse estado.
+3. Para cada transição A -> B com somente o estado A marcado, marque o estado B.
+4. Repita o passo 3 até não marcar mais nenhum estado.
+5. Se algum estado final estiver marcado, rejeite. Senão, aceite.
+
+3 da outra prova do drive) Uma MT que resolve o seguinte problema pode ser a seguinte:
+1. Vá para a primeira posição da esquerda pra direita.
+2. Se a posição está em branco:
+    2.1. Aceite.
+3. Se for um 1:
+    3.1. Marque.
+    3.2. Vá para a direita.
+    3.3. Enquanto for um 1 não marcado:
+        3.3.1. Vá para a direita.
+    3.4. Vá para a esquerda.
+    3.5. Se for um 1 marcado:
+        3.5.1. Vá para a extrema esquerda.
+        3.5.2. Desmarque.
+        3.5.3. Vá para a direita.
+        3.5.4. Enquanto for um 1:
+            3.5.4.1. Apaga.
+        3.5.5. Aceite.
+    3.6. Marque.
+    3.4. Vá para a esquerda.
+    3.5. Enquanto for um 1 não marcado:
+        3.5.1. Vá para a esquerda.
+    3.6. Vá para a direita.
+    3.7. Se for um 1 marcado:
+        3.7.1. Vá para a extrema esquerda.
+        3.7.2. Enquanto for um 1:
+            3.7.2.1. Apague.
+            3.7.2.2. Vá para a direita.
+        3.7.3. Aceite.
+    3.8. Volte para o passo 3.1.
+

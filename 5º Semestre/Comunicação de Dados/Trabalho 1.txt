@@ -1,0 +1,11 @@
+NRZ-I (NRZ-Level): Normal, se entra 1, desenha o 1, se entra 0, desenha 0
+
+NRZ-L (NRZ-Invert): próximo bit 1 inverte o sinal que estava e próximo bit 0 mantém o sinal que estava
+
+AMI: 
+
+Pseudoternário: 
+
+Manchester: 
+
+Mancherter Diferencial:

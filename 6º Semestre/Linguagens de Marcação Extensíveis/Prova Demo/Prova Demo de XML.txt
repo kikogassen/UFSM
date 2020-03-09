@@ -1,0 +1,43 @@
+Prova Demo de XML
+
+Leia cuidadosamente a prova até o fim por forma a escolher a sua estratégia.
+A prova tem a duração máxima de 1:40 horas.
+A prova é com consulta de todo o material próprio.
+
+1. Validação de XML [3,0 pontos]
+Dado o documento DefesaDrGio.xml no ClassRoom, crie o respectivo DTD para sua total validação. Este documento possui a estrutura e o conteúdo da apresentação referente a defesa de doutorado do professor da disciplina.
+
+2. Validação de XML [3,0 pontos]
+Dado o documento DefesaDrGio.xml no ClassRoom, crie o respectivo XML Schema para sua total validação. O XML Schema deve atender os seguintes requisitos, além da validação:
+- só pode haver um elemento global
+- ter um tipo complexo para os slides
+- ter um tipo complexo para tabelas
+- ter um tipo complexo para imagens
+- o código dos slides não pode ter repetição
+
+3. Consultas XPath [4,0 pontos]
+Apresente as expressões XPath para as perguntas seguintes e os respectivos resultados quando executadas na instância dada.
+a) Quais são os códigos dos slides que possuem imagens?
+b) Quais são os títulos dos slides que apresentam apenas texto em seu conteúdo?
+c) Quantas listas do tipo normal existem no documento?
+d) Quantos slides possuem listas do tipo normal?
+e) Em quais slides (aponte seus códigos) existem listas dentro de outras listas?
+f) Quais são os títulos dos slides que possuem listas do tipo normal.
+g) Quais são as figuras referenciadas no documento.
+h) Quais são os códigos dos slides que possuem o elemento legenda.
+i) Quais são os títulos dos slides que possuem lista e figura em seu corpo.
+j) Quais são os códigos dos slides que contenham apenas uma tabela ou uma figura.
+
+RESPOSTAS:
+
+a) //slide//imagem/ancestor::slide/@codigo
+b) //slide/corpo/texto//ancestor::slide/@titulo
+c) count(//lista[@tipo='normal'])
+d) count(//slide//lista[@tipo='normal']/ancestor::slide)
+e) //slide/descendant::lista/descendant::lista/ancestor::slide/@codigo
+f) //slide//lista[@tipo='normal']/ancestor::slide/@titulo
+g) //figura
+h) //slide//legenda/ancestor::slide/@codigo
+i) //slide//corpo[descendant::lista and descendant::figura]/ancestor::slide/@titulo
+j) //slide[count(descendant::tabela)=1 or count(descendant::figura)=1]/@codigo
+

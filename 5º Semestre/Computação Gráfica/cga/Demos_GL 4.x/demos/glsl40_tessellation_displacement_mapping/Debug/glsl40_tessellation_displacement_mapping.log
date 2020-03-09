@@ -1,0 +1,86 @@
+﻿  glslprogram.cpp
+  GLUtils.cpp
+  TextureManager.cpp
+  main.cpp
+..\..\utils\GLUtils.cpp(10): warning C4100: 'param': unreferenced formal parameter
+..\..\utils\GLUtils.cpp(10): warning C4100: 'length': unreferenced formal parameter
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file src\main.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file src\main.cpp)
+src\main.cpp(54): warning C4100: 'error': unreferenced formal parameter
+src\main.cpp(60): warning C4459: declaration of 'window' hides global declaration
+  src\main.cpp(29): note: see declaration of 'window'
+src\main.cpp(60): warning C4100: 'mods': unreferenced formal parameter
+src\main.cpp(60): warning C4100: 'scancode': unreferenced formal parameter
+src\main.cpp(133): warning C4316: 'TessellatedQuad': object allocated on the heap may not be aligned 16
+  TessellatedQuad.cpp
+..\..\utils\TextureManager.cpp(182): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\utils\TextureManager.cpp(183): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\utils\TextureManager.cpp(117): warning C4100: 'border': unreferenced formal parameter
+..\..\utils\TextureManager.cpp(117): warning C4100: 'level': unreferenced formal parameter
+..\..\utils\TextureManager.cpp(117): warning C4100: 'internal_format': unreferenced formal parameter
+..\..\utils\TextureManager.cpp(117): warning C4100: 'image_format': unreferenced formal parameter
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file src\TessellatedQuad.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file src\TessellatedQuad.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file src\TessellatedQuad.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\TessellatedQuad.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file src\TessellatedQuad.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file src\TessellatedQuad.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\TessellatedQuad.cpp)
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\include\GLFW\glfw3.h(85): note: see previous definition of 'APIENTRY' (compiling source file src\TessellatedQuad.cpp)
+src\TessellatedQuad.cpp(74): warning C4100: 'deltaTime': unreferenced formal parameter
+src\TessellatedQuad.cpp(179): warning C4100: 'y': unreferenced formal parameter
+src\TessellatedQuad.cpp(179): warning C4100: 'x': unreferenced formal parameter
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  glsl40_tessellation_displacement_mapping.vcxproj -> D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\bin\glsl40_tessellation_displacement_mapping.exe
+  glsl40_tessellation_displacement_mapping.vcxproj -> D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\bin\glsl40_tessellation_displacement_mapping.pdb (Partial PDB)
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_tessellation_displacement_mapping\shader\glsl40_tess_disp_mapp.frag
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_tessellation_displacement_mapping\shader\glsl40_tess_disp_mapp.tcs
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_tessellation_displacement_mapping\shader\glsl40_tess_disp_mapp.tes
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_tessellation_displacement_mapping\shader\glsl40_tess_disp_mapp.vert
+  4 File(s) copied

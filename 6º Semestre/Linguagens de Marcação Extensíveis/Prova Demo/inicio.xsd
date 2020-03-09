@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Frederico Hansel dos Santos Gassen (Universidade Federal de Santa Maria) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" attributeFormDefault="unqualified" vc:minVersion="1.1">
+	<xs:element name="apresentacao">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="abertura">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="titulo" type="xs:string"/>
+							<xs:element name="palavras-chave">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="palavra-chave" maxOccurs="unbounded"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="corpo">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="slide" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:complexContent>
+										<xs:extension base="slideType"/>
+									</xs:complexContent>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="slideType">
+		<xs:sequence>
+			<xs:element name="cabecalho" minOccurs="0"/>
+			<xs:element name="corpo"/>
+			<xs:element name="rodape" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

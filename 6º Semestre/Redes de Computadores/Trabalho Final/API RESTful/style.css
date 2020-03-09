@@ -1,0 +1,78 @@
+*{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
+section{
+    position: relative;
+}
+#box{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #341f97;
+    padding: 50px;
+    border-radius: 20px;
+    text-align: center;
+    width: 400px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.35);
+}
+/* input[type = "text"]{
+    background: transparent;
+    border: 2px solid #54a0ff;
+    border-width: 0 0 2px 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    color: white;
+    font-size: 18px;
+
+}
+input[type = "text"]:focus{
+    outline: none;
+} */
+input[type = "submit"]{
+    background: none;
+    border: 2px solid #54a0ff;
+    border-radius: 50px;
+    padding: 10px 20px;
+    margin-top: 50px;
+    color: white;
+    transition: 0.5s;
+    font-size: 18px;
+    cursor: pointer;
+}
+input[type = "submit"]:hover{
+    background-color: #54a0ff;
+    transform: scale(1.25);
+}
+#checkBoxesL2, #checkBoxesL3{
+    padding: 10px 0;
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+}
+#checkBoxesL2 input, #checkBoxesL2 h4, #checkBoxesL3 input, #checkBoxesL3 h4{
+    display: inline;
+    padding: 0 25px 0 0 ;
+    color: white;
+    font-weight: 100;
+}
+#checkBoxesL2 input, #checkBoxesL3 input{
+    padding: 0 10px;
+}
+#checkBoxesL2 h3, #checkBoxesL3 h3{
+    float: left;
+    padding: 0 0 0 10px;
+    color: #54a0ff;
+    font-weight: 100;
+}
+input[type = "checkbox"]{
+    background: none;
+    border: 2px solid #54a0ff;
+}

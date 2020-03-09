@@ -1,0 +1,10 @@
+iaa 698
+scj 210
+fsa 129
+abc 76
+AAA 0
+AAA 0
+AAA 0
+AAA 0
+AAA 0
+AAA 0

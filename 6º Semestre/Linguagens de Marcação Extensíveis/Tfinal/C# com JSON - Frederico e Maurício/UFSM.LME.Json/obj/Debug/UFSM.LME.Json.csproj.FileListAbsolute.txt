@@ -1,0 +1,12 @@
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\bin\Debug\UFSM.LME.Json.exe.config
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\bin\Debug\UFSM.LME.Json.exe
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\bin\Debug\UFSM.LME.Json.pdb
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\obj\Debug\UFSM.LME.Json.csprojAssemblyReference.cache
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\obj\Debug\UFSM.LME.Json.csproj.CoreCompileInputs.cache
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\obj\Debug\UFSM.LME.Json.csproj.CopyComplete
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\obj\Debug\UFSM.LME.Json.exe
+C:\Users\kikog\Documents\UFSM\6º Semestre\Linguagens de Marcação Extensíveis\Tfinal\C# com JSON - Frederico e Maurício\UFSM.LME.Json\obj\Debug\UFSM.LME.Json.pdb

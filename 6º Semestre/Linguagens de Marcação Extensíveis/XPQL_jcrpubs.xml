@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<new-doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="composer.xsd">
+	<target>bienio0304</target>
+	<part>	
+		<source>jcrpubs.xml</source>
+		<container>pubs2003</container>
+		<query-set>
+			<query>
+				<qexp>//*[year='2003']</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>jcrpubs.xml</source>
+		<container>authors</container>
+		<query-set>
+			<query>
+				<qexp>//author</qexp>
+			</query>
+		</query-set>
+	</part>
+</new-doc>

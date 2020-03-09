@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<filmes>
+	<filme id="starwarsIV">
+		<tituloEN>Star Wars</tituloEN>
+		<tituloBR>Guerra nas Estrelas</tituloBR>
+		<genero>Aventura/Ficção Científica</genero>
+		<duracao>121</duracao>
+		<ano>1977</ano>
+		<site>http://www.starwars.com/episode-iv </site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>George Lucas</direcao>
+		<elenco>Mark Hamill</elenco>
+		<elenco>Harrison Ford</elenco>
+		<elenco>Carrie Fisher</elenco>
+		<sinopse>Luke Skywalker (Mark Hammil) sonha ir para a Academia como seus amigos, mas se vê envolvido em uma guerra intergalática quando seu tio compra dois robôs e com eles encontra uma mensagem da princesa Leia Organa (Carrie Fisher) para o jedi Obi-Wan Kenobi (Alec Guiness) sobre os planos da construção da Estrela da Morte, uma gigantesca estação espacial com capacidade para destruir um planeta. Luke então se junta aos cavaleiros jedi e a Hans Solo (Harrison Ford), um mercenário, e junto com membros da resistência tentam destruir esta terrível ameaça.</sinopse>
+	</filme>
+	<filme id="armageddon">
+		<tituloEN>Armageddon</tituloEN>
+		<tituloBR>Armageddon</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao>151</duracao>
+		<ano>1998</ano>
+		<site>http://movies.go.com/armageddon</site>
+		<distribuicao>Buena Vista Pictures / Touchstone Pictures</distribuicao>
+		<direcao>Michael Bay</direcao>
+		<elenco>Bruce Willis</elenco>
+		<elenco>Ben Affleck</elenco>
+		<elencoApoio>Billy Bob Thornton</elencoApoio>
+		<elenco>Liv Tyler</elenco>
+		<sinopse>Após uma chuva de pequenos meteoros que atingem a Terra (incluindo Nova York), a NASA se dá conta de que um asteróide do tamanho do Texas está em um curso de colisão com o nosso planeta. O asteróide se aproxima da Terra à uma velocidade 35.000km/h. e, se o choque acontecer, qualquer forma de vida deixará de existir na Terra, exatamente como o que exterminou os dinossauros 65 milhões de anos atrás. Restando apenas 18 dias para o choque entre a Terra e o asteróide, a única solução possível é enviar astronautas em um ônibus espacial até a superfície do asteróide e lá perfurar 800 pés para colocar um bomba nuclear, detonando-a por controle remoto. Para cumprir tal missão é convocado o mais famoso perfurador de petróleo (Bruce Willis) a grandes profundidades do mundo, que exige formar sua equipe com técnicos que têm um comportamento nada convencional para os padrões do governo.
+</sinopse>
+	</filme>
+	<filme id="patriota">
+		<tituloEN>The Patriot</tituloEN>
+		<tituloBR>O Patriota</tituloBR>
+		<genero>Drama</genero>
+		<duracao>164</duracao>
+		<ano>2000</ano>
+		<site>http://www.thepatriot.com</site>
+		<distribuicao>Columbia TriStar / Sony Pictures Entertainment</distribuicao>
+		<direcao>Rolland Emmerich</direcao>
+		<elenco>Mel Gibson</elenco>
+		<elenco>Heath Ledger</elenco>
+		<elenco>Joely Richardson</elenco>
+		<elenco>Jason Isaacs</elenco>
+		<sinopse>Benjamin Martin (Mel Gibson) é um herói do violento conflito entre França e Índia. Desde o término da guerra, ele renunciou a luta e resolveu viver em paz com sua família. Mas quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo, ele descobre que o único meio de proteger sua família é lutando pela liberdade da jovem nação.</sinopse>
+	</filme>
+	<filme id="apollo13">
+		<tituloEN>Apollo 13</tituloEN>
+		<tituloBR>Apollo 13</tituloBR>
+		<genero>Drama </genero>
+		<duracao>138</duracao>
+		<ano>1995</ano>
+		<site/>
+		<distribuicao>Universal Pictures / Imagine Entertainment</distribuicao>
+		<direcao>Ron Howard</direcao>
+		<elenco>Tom Hanks</elenco>
+		<elenco>Bill Paxton</elenco>
+		<elenco>Kevin Bacon</elenco>
+		<elenco>Ed Harris</elenco>
+		<sinopse>Três astronautas americanos a caminho de uma missão na Lua sobrevivem à uma explosão, mas precisam retornar rapidamente à Terra para poderem sobreviver, pois correm o risco de ficarem sem oxigênio. Além disto existe o risco de, mesmo retornando, a nave ficar seriamente danificada, por não suportar o imenso calor na reentrada da órbita terrestre.</sinopse>
+	</filme>
+	<filme id="cem-garotas">
+		<tituloEN>100 Girls</tituloEN>
+		<tituloBR>100 Garotas</tituloBR>
+		<genero>Comédia</genero>
+		<duracao/>
+		<ano>2000</ano>
+		<site>http://www.100girls.net</site>
+		<distribuicao>Dream Entertainment, Inc. / Michael/Finney Productions</distribuicao>
+		<direcao>Michael Davis</direcao>
+		<elenco>Jonathan Tucker</elenco>
+		<elenco>Larisa Oleynik</elenco>
+		<elenco>Emmanuelle Chriqui</elenco>
+		<elenco>Jaime Pressly</elenco>
+		<sinopse>Calouro de faculdade (Jonathan Tucker) encontra a garota de seus sonhos durante um blecaute dentro do elevador. Ele não vê seu rosto, mas se apaixona instantaneamente por ela. Pela manhã, ela desaparece e ele inicia uma busca, que se exstende ao longo do semestre.</sinopse>
+	</filme>
+	<filme id="sextosentido">
+		<tituloEN>The Sixth Sense</tituloEN>
+		<tituloBR>O Sexto Sentido</tituloBR>
+		<genero>Suspense</genero>
+		<duracao>106</duracao>
+		<ano>1999</ano>
+		<site>http://www.studio.go.com/movies/sixthsense</site>
+		<distribuicao>Buena Vista International</distribuicao>
+		<direcao>M. Night Shyamalan</direcao>
+		<elenco>Haley Joel Osment</elenco>
+		<elenco>Bruce Willis</elenco>
+		<elencoApoio>Toni Collette</elencoApoio>
+		<elencoApoio>Olivia Williams</elencoApoio>
+		<sinopse>O psicólogo infantil Malcolm Crowe (Bruce Willis) abraça com dedicação o caso de Cole Sear (Haley Joel Osment). O garoto, de 8 anos, tem dificuldades de entrosamento no colégio e vive paralisado de medo. Malcolm, por sua vez, busca se recuperar de um trauma sofrido anos antes, quando um de seus pacientes se suicidou na sua frente.</sinopse>
+	</filme>
+	<filme id="eueumesmoeirene">
+		<tituloEN>Me, Myself And Irene</tituloEN>
+		<tituloBR>Eu, Eu Mesmo e Irene</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>116</duracao>
+		<ano>2000</ano>
+		<site>http://www.memyselfandirene.com</site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>Bobby Farrelly e Peter Farrelly</direcao>
+		<elenco>Jim Carrey</elenco>
+		<elenco>Renée Zellweger</elenco>
+		<elencoApoio>Chris Cooper</elencoApoio>
+		<elencoApoio>Michael Bowman</elencoApoio>
+		<sinopse>Charlie (Jim Carrey) faz parte da força policial de Rhode Island há 17 anos. Trabalhador, honesto, pai de três filhos e sempre disposto a ajudar, Charlie é amado por todos à sua volta. Mas ele tem um problema: sofre da Síndrome de Dupla Personalidade. Se deixar de tomar seus remédios, sua segunda personalidade, Harry, vem à tona. Harry não tem nada em comum com Charlie: é beberrão, agressivo e grosso com todos. Até que ambos conhecem e se apaixonam por Irene Waters (Renée Zellweger) e passam a lutar consigo mesmo para terem o domínio do mesmo corpo.</sinopse>
+	</filme>
+	<filme id="americanpie2">
+		<tituloEN>American Pie 2</tituloEN>
+		<tituloBR>American Pie 2</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>104</duracao>
+		<ano>2001</ano>
+		<site>http://www.americanpiemovie.com</site>
+		<distribuicao>Universal Pictures</distribuicao>
+		<direcao>James B. Rogers</direcao>
+		<elenco>Jason Biggs</elenco>
+		<elenco>Jennifer Coolidge</elenco>
+		<elenco>Shannon Elizabeth</elenco>
+		<elencoApoio>Alyson Hannigan</elencoApoio>
+		<sinopse>Ao término do primeiro ano da faculdade, Jim (Jason Biggs), Oz (Chris Klein), Kevin (Thomas Ian Nicholas), Stifler (Seann William Scott) e Finch (Eddie Kaye Thomas) mais uma vez se reencontram. Mas agora Nadia (Shannon Elizabeth) está prestes a vir visitar Jim, que ainda não se sente preparado sexualmente para encontrá-la e receberá a ajuda dos amigos. </sinopse>
+	</filme>
+	<filme id="mafianodiva">
+		<tituloEN>Analyze This</tituloEN>
+		<tituloBR>Máfia no Divã</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>104</duracao>
+		<ano>1999</ano>
+		<site/>
+		<distribuicao>Warner Bros</distribuicao>
+		<direcao>Harold Ramis</direcao>
+		<elenco>Robert De Niro</elenco>
+		<elenco>Billy Crystal</elenco>
+		<elenco>Lisa Kudrow</elenco>
+		<elencoApoio>Chazz Palminteri</elencoApoio>
+		<sinopse>Paul Vitti (Robert De Niro), o chefe de uma "família", tem repentinamente ataques de ansiedade por causa de problemas do passado. Assim, decide consultar secretamente Ben Sobel (Billy Crystal), um psiquiatra, pois se a história se espalhar vão dizer que ele está "frouxo". Mas o pior é que Vitti deseja estar curado em apenas duas semanas, quando acontecerá um grande reunião da Máfia, e Sobel está viajando para Miami, onde pretende se casar com Laura MacNamara (Lisa Kudrow). Vitti é o tipo de pessoa que está acostumado em ter qualquer pessoa que trabalhe para ele a disposição vinte e quatro horas por dia, assim Sobel passa a ser "requisitado" pelos capangas de Vitti nos horários e lugares mais impróprios, inclusive na hora de seu casamento. Paralelamente, os agentes federais até forjam provas para que Sobel torne-se seu informante e diga quando e aonde será esta reunião das "famílias". </sinopse>
+	</filme>
+	<filme id="starwarsV">
+		<tituloEN>The Empire Strikes Back</tituloEN>
+		<tituloBR>O Império Contra Ataca</tituloBR>
+		<genero>Aventura/Ficção Científica</genero>
+		<duracao>124</duracao>
+		<ano>1980</ano>
+		<site>http://www.starwars.com/episode-v</site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>George Lucas</direcao>
+		<elenco>Mark Hamill</elenco>
+		<elenco>Harrison Ford</elenco>
+		<elenco>Carrie Fisher</elenco>
+		<elencoApoio>Billy Dee Williams</elencoApoio>
+		<sinopse>As forças imperais comandadas por Darth Vader (David Prowse) lançam um ataque contra os membros da resistência, que são obrigados a fugir. Enquanto isso Luke Skywalker (Mark Hamill) tenta encontrar o Mestre Yoda, que poderá ensiná-lo a dominar a "Força" e torná-lo um cavaleiro jedi. No entanto, Darth Vader planeja levá-lo para o lado negro da "Força". </sinopse>
+	</filme>
+	<filme id="nateiadaaranha">
+		<tituloEN>Along Came a Spider</tituloEN>
+		<tituloBR>Na Teia da Aranha</tituloBR>
+		<genero>Thriller</genero>
+		<duracao/>
+		<ano>2001</ano>
+		<site>http://www.alongcameaspidermovie.com</site>
+		<distribuicao>Paramount Pictures</distribuicao>
+		<direcao>Lee Tamahori</direcao>
+		<elenco>Morgan Freeman</elenco>
+		<elenco>Monica Potter</elenco>
+		<elencoApoio>Michael Wincott</elencoApoio>
+		<elencoApoio>Jay O. Sanders</elencoApoio>
+		<sinopse>O detetive Alex Cross (Morgan Freeman) recebe a ajuda da agente do Serviço Secreto americano Jezzie Flannigan (Monica Potter) para enfrentar Gary Soneji (Michael Wincott), um psicopata esquisofrênico que pleneja seus passos com a precisão de uma aranha tecendo sua teia e que acaba de sequestrar a filha de um senador americano, quando ela estava em seu colégio. </sinopse>
+	</filme>
+	<filme id="umgrandegaroto">
+		<tituloEN>About a Boy</tituloEN>
+		<tituloBR>Um Grande Garoto</tituloBR>
+		<genero>Drama</genero>
+		<duracao>105</duracao>
+		<ano>2002</ano>
+		<site>http://www.about-a-boy.com</site>
+		<distribuicao>Universal Pictures</distribuicao>
+		<direcao>Chris Weitz e Paul Weitz</direcao>
+		<elenco>Hugh Grant</elenco>
+		<elenco>Toni Collette</elenco>
+		<elencoApoio>Rachel Weisz</elencoApoio>
+		<elencoApoio>Nicholas Hoult</elencoApoio>
+		<sinopse>Will Freeman (Hugh Grant) é um homem na faixa dos trinta anos metido a galã que inventa ter um filho apenas para poder ir às reuniões de pais solteiros, onde tem a oportunidade de conhecer mães também solteiras. Will sempre segue a mesma tática: vive com elas um rápido romance e quando elas começam a falar em compromisso ele acaba o namoro. Até que, em um de seus relacionamentos, Will conhece o jovem Marcus (Nicholas Hoult), um garoto de 12 anos que é completamente o seu oposto e tem muitos problemas em casa e na escola. Com o tempo Will e Marcus se envolvem cada vez mais, aprendendo que um pode ensinar muito ao outro.</sinopse>
+	</filme>
+	<filme id="umsonhodeliberdade">
+		<tituloEN>The Shawshank Redemption</tituloEN>
+		<tituloBR>Um Sonho de Liberdade</tituloBR>
+		<genero>Drama</genero>
+		<duracao>142</duracao>
+		<ano>1994</ano>
+		<site/>
+		<distribuicao>Columbia Pictures</distribuicao>
+		<direcao>Frank Darabont</direcao>
+		<elenco>Tim Robbins</elenco>
+		<elenco>Morgan Freeman</elenco>
+		<elencoApoio>Bob Gunton</elencoApoio>
+		<elencoApoio>William Sadler</elencoApoio>
+		<sinopse>Em 1946, Andy Dufresne (Tim Robbins), um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada quando é mandado para uma penitenciária para cumprir prisão perpétua por ter assassinado sua mulher e o amante dela. No presídio, faz amizade com Ellis Boyd Redding (Morgan Freeman), um prisioneiro que cumpre pena há 20 anos e controla o mercado negro do presídio.</sinopse>
+	</filme>
+	<filme id="quarentadias">
+		<tituloEN>40 Days and 40 Nights</tituloEN>
+		<tituloBR>40 Dias e 40 Noites</tituloBR>
+		<genero>Comédia Romântica</genero>
+		<duracao/>
+		<ano>2002</ano>
+		<site>http://www.miramax.com/40daysand40nights</site>
+		<distribuicao>Universal Pictures / Miramax Films</distribuicao>
+		<direcao>Michael Lehmann</direcao>
+		<elenco>Josh Hartnett</elenco>
+		<elenco>Shannyn Sossamon</elenco>
+		<elencoApoio>Maggie Gyllenhaal</elencoApoio>
+		<elencoApoio>Emmanuelle Vaugier</elencoApoio>
+		<sinopse>Após seu último relacionamento amoroso terminar em um verdadeiro desastre, Matt Sullivan (Josh Hartnett) decide fazer uma prova consigo mesmo: durante 40 dias e 40 noites ele não terá nenhum contato físico com mulher alguma. Inicialmente Matt resiste às tentações, até que surge em sua vida Erica (Shannyn Sossamon), a garota de seus sonhos que pode pôr por terra a prova de resistência criada por ele.</sinopse>
+	</filme>
+	<filme id="hotchick">
+		<tituloEN>The Hot Chick</tituloEN>
+		<tituloBR>Garota Veneno</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>101</duracao>
+		<ano>2002</ano>
+		<site>http://www.areyouhot.com</site>
+		<distribuicao>Touchstone Pictures / Buena Vista International</distribuicao>
+		<direcao>Tom Brady</direcao>
+		<elenco>Rob Schneider</elenco>
+		<elencoApoio>Rachel McAdams</elencoApoio>
+		<elencoApoio>Anna Farris</elencoApoio>
+		<elencoApoio>Matthew Lawrence</elencoApoio>
+		<sinopse>Jessica (Rachel McAdams) é uma garota extremamente popular, bonita e também cruel, que se acha superior a todas as pessoas com as quais convive. Sua vida muda drasticamente quando, repentinamente, acorda no corpo de Clive (Rob Schneider), um frentista que tem em torno de 30 anos e é considerado por todos como sendo um grande perdedor. Desesperada para retornar à antiga forma, agora ocupada por Clive, ambos passam por estranhas situações no novo visual que agora possuem.</sinopse>
+	</filme>
+	<filme id="gladiador">
+		<tituloEN>Gladiator</tituloEN>
+		<tituloBR>Gladiador</tituloBR>
+		<genero>Épico</genero>
+		<duracao>155</duracao>
+		<ano>2000</ano>
+		<site>http://www.gladiator-thefilm.com</site>
+		<distribuicao>DreamWorks Distribution L.L.C. / Universal Pictures</distribuicao>
+		<direcao>Ridley Scott</direcao>
+		<elenco>Russell Crowe</elenco>
+		<elencoApoio>Joaquin Phoenix</elencoApoio>
+		<elencoApoio>Richard Harris</elencoApoio>
+		<elencoApoio>Djimon Hounson</elencoApoio>
+		<sinopse>Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.</sinopse>
+	</filme>
+	<filme id="senhordosaneis2">
+		<tituloEN>The Lord of the Rings: The Two Towers</tituloEN>
+		<tituloBR>O Senhor dos Anéis - As Duas Torres</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>179</duracao>
+		<ano>2002</ano>
+		<site>http://www.lordoftherings.net</site>
+		<distribuicao>Warner Bros. / New Line Cinema</distribuicao>
+		<direcao>Peter Jackson</direcao>
+		<elenco>Elijah Wood </elenco>
+		<elenco>Ian McKellen</elenco>
+		<elencoApoio>Viggo Mortensen</elencoApoio>
+		<elencoApoio>Sean Astin</elencoApoio>
+		<sinopse>Após a captura de Merry (Dominic Monaghan) e Pippy (Billy Boyd) pelos orcs, a Sociedade do Anel é dissolvida. Enquanto que Frodo (Elijah Wood) e Sam (Sean Astin) seguem sua jornada rumo à Montanha da Perdição para destruir o Um Anel, Aragorn (Viggo Mortensen), Legolas (Orlando Bloom) e Gimli (John Rhys-Davies) partem para resgatar os hobbits sequestrados. </sinopse>
+	</filme>
+	<filme id="devoltaparaofuturo3">
+		<tituloEN>Back To The Future Part III</tituloEN>
+		<tituloBR>De Volta para o Futuro 3</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao>117</duracao>
+		<ano>1990</ano>
+		<site>http://www.bttf.com</site>
+		<distribuicao>Universal Pictures</distribuicao>
+		<direcao>Robert Zemeckis</direcao>
+		<elenco>Michael J. Fox</elenco>
+		<elenco>Christopher Lloyd</elenco>
+		<elencoApoio>Mary Steenburgen</elencoApoio>
+		<elencoApoio>Thomas F. Wilson</elencoApoio>
+		<sinopse>Após de receber uma carta de Doc (Christopher Lloyd) datada de 1885, Marty (Michael J. Fox) viaja ao Velho Oeste, no dia 2 de setembro do mesmo ano, tendo apenas cinco dias para salvar a si e aos seus amigos e voltar para o futuro.</sinopse>
+	</filme>
+	<filme id="curtindoavidaadoidado">
+		<tituloEN>Ferris Bueller's Day Off</tituloEN>
+		<tituloBR>Curtindo a Vida Adoidado</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>109</duracao>
+		<ano>1986</ano>
+		<site/>
+		<distribuicao>Paramount Pictures</distribuicao>
+		<direcao>John Hughes</direcao>
+		<elenco/>
+		<elenco>Matthew Broderick</elenco>
+		<elencoApoio>Alan Ruck</elencoApoio>
+		<elencoApoio>Mia Sara</elencoApoio>
+		<sinopse>No último semestre do curso do colégio, estudante (Matthew Broderick) sente um incontrolável desejo de matar a aula e planeja um grande programa na cidade com a namorada (Mia Sara), seu melhor amigo (Alan Ruck) e uma Ferrari. Só que para poder realizar seu desejo ele precisa escapar do diretor (Jeffrey Jones) do colégio e de sua própria irmã (Jennifer Grey).</sinopse>
+	</filme>
+	<filme id="revelacao">
+		<tituloEN>What Lies Beneath</tituloEN>
+		<tituloBR>Revelação</tituloBR>
+		<genero>Thriller</genero>
+		<duracao>130</duracao>
+		<ano>2000</ano>
+		<site/>
+		<distribuicao>DreamWorks Distribution L.L.C. / 20th Century Fox Film Corporation</distribuicao>
+		<direcao>Robert Zemeckis</direcao>
+		<elenco>Harrison Ford</elenco>
+		<elenco>Michelle Pfeiffer</elenco>
+		<elencoApoio>Diana Scarwid</elencoApoio>
+		<elencoApoio>Miranda Otto</elencoApoio>
+		<sinopse>Já fazia um ano que o Dr. Norman Spencer (Harrison Ford) havia traído sua bela esposa, Claire (Michelle Pfeiffer). Mas, com ela sem saber de nada e o affair já encerrado, a vida e o casamento de Norman seguia perfeita. Até que Claire começa a ouvir misteriosas vozes e ver a imagem de uma jovem mulher perambulando em sua própria casa. Ao saber das visões de sua esposa, Norman não lhe dá atenção e diz que tudo não passam de ilusões. Entretanto, com o tempo fica claro que o ser não irá desaparecer e tem alguma ligação com o casal, fazendo com que Claire se aproxime cada vez mais da verdade sobre o passado de Norman.</sinopse>
+	</filme>
+	<filme id="platton">
+		<tituloEN>Platoon</tituloEN>
+		<tituloBR>Platoon</tituloBR>
+		<genero>Guerra</genero>
+		<duracao>120</duracao>
+		<ano>1986</ano>
+		<site/>
+		<distribuicao>Orion Pictures Corporation / MGM</distribuicao>
+		<direcao>Oliver Stone</direcao>
+		<elenco>Tom Berenger</elenco>
+		<elenco>Willem Dafoe</elenco>
+		<elenco>Charlie Sheen</elenco>
+		<elencoApoio>Forest Whitaker</elencoApoio>
+		<sinopse>Chris (Charlie Sheen) é um jovem recruta recém-chegado a um batalhão americano, em meio à Guerra do Vietnã. Idealista, Chris foi um voluntário para lutar na guerra pois acredita que deve defender seu país, assim como fez seu avô e seu pai em guerras anteriores. Mas aos poucos, com a convivência dos demais recrutas e dos oficiais que o cercam, ele vai perdendo sua inocência e passa a experimentar de perto toda a violência e loucura de uma carnificina sem sentido. </sinopse>
+	</filme>
+	<filme id="southpark">
+		<tituloEN>South Park: Bigger, Longer and Uncut</tituloEN>
+		<tituloBR>South Park: Maior, Melhor e Sem Cortes</tituloBR>
+		<genero>Animação</genero>
+		<duracao>80</duracao>
+		<ano>1999</ano>
+		<site>http://www.southparkmovie.com</site>
+		<distribuicao>Warner Bros. / Paramount Pictures</distribuicao>
+		<direcao>Trey Parker</direcao>
+		<elencoApoio>Stan Marsh</elencoApoio>
+		<elencoApoio>Eric Cartman</elencoApoio>
+		<elencoApoio>Kyle Broslofski</elencoApoio>
+		<elencoApoio>Kenny</elencoApoio>
+		<sinopse>Versão para o cinema da série da TV americana South Park, na qual quatro garotos, Kyle, Eric, Stan e Kenny esculacham, de forma grosseira e impiedosa, tudo o que é sagrado para o americano comum. No filme, o grupo resolve assistir o novo filme de Terrance and Philip, uma dupla de comediantes canadenses que usa e abusa do humor escatológico, recheado de palavrões e flatulências. Ao descobrir a ameaça da dupla para as crianças americanas, a mãe de um deles, Sra. Broflovski, inicia uma campanha que resulta numa sangrenta guerra entre os Estados Unidos e o Canadá. Em meio a toda esta confusão, está a dupla formada por Saddam Hussein e o próprio Diabo, que planejam dominar o planeta.</sinopse>
+	</filme>
+	<filme id="starwarsII">
+		<tituloEN>Star Wars: Episode II - Attack of the Clones</tituloEN>
+		<tituloBR>Star Wars: Episódio II - Ataque dos Clones</tituloBR>
+		<genero>Aventura / Ficção Científica</genero>
+		<duracao>144</duracao>
+		<ano>2002</ano>
+		<site>http://www.starwars.com/episode-ii</site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>George Lucas</direcao>
+		<elenco>Ewan McGregor</elenco>
+		<elencoApoio>Hayden Christensen</elencoApoio>
+		<elenco>Natalie Portman</elenco>
+		<elencoApoio>Ian McDiarmid</elencoApoio>
+		<sinopse>Dez anos após a tentativa frustrada de invasão do planeta Naboo, Obi-Wan Kenobi (Ewan McGregor), Anakin Skywalker (Hayden Christensen) e Padmé Amidala (Natalie Portman) estão juntos novamente. Neste período de tempo Obi-Wan passou de aprendiz a professor dos ensinamentos jedi para Anakin, sendo que ambos foram destacados para proteger a agora senadora Amidala, que tem sua vida ameaçada por facções separatistas da República, que ameaçam desencadear uma guerra civil intergalática. Com o passar do tempo surge um romance proibido entre Anakin e Amidala, pois os cavaleiros jedi não têm permissão para se apaixonarem.</sinopse>
+	</filme>
+	<filme id="debieloide">
+		<tituloEN>Dumb and Dumber</tituloEN>
+		<tituloBR>Debi e Lóide - Dois Idiotas em Apuros</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>106</duracao>
+		<ano>1994</ano>
+		<site/>
+		<distribuicao>New Line Cinema</distribuicao>
+		<direcao>Peter Farrelly e Bobby Farrelly</direcao>
+		<elenco>Jim Carrey</elenco>
+		<elenco>Jeff Daniels</elenco>
+		<elencoApoio>Lauren Holly</elencoApoio>
+		<elencoApoio>Mike Starr</elencoApoio>
+		<sinopse>Lloyd Christmas (Jim Carrey) e Harry Dunne (Jeff Daniels) são dois homens extremamente estúpidos. Quando Lloyd leva até o aeroporto Mary Swanson (Lauren Holly), uma bela mulher que vai para Aspen, Colorado, acredita que Mary perdeu uma mala. Na verdade ela "esqueceu" no saguão, pois dentro dela está uma grande soma para pagar o resgate do marido, mas antes que os seqüestradores peguem a valise Lloyd a recupera e tenta lhe entregar. Como o vôo já partiu e ele se sente atraído por Mary, convence Harry para irem até Aspen para devolver o dinheiro. Na viagem se envolvem em várias confusões, além de serem perseguidos pelos seqüestradores. </sinopse>
+	</filme>
+	<filme id="maquinamortifera4">
+		<tituloEN>Lethal Weapon 4</tituloEN>
+		<tituloBR>Máquina Mortífera 4</tituloBR>
+		<genero>Policial</genero>
+		<duracao>128</duracao>
+		<ano>1998</ano>
+		<site>http://www.lw4.com</site>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Richard Donner</direcao>
+		<elenco>Mel Gibson</elenco>
+		<elenco>Danny Glover</elenco>
+		<elencoApoio>Joe Pesci</elencoApoio>
+		<elenco>Rene Russo</elenco>
+		<sinopse>A polícia de Los Angeles descobre uma quadrilha que promove a entrada de chineses nos Estados Unidos, que serão vendidos como escravos. Por trás desta operação está "Tio Benny", o chefão de uma grande quadrilha em Chinatown, com tudo isto estando ligado à uma trama de falsificação da moeda chinesa em grande escala, para libertar quatro grandes criminosos. </sinopse>
+	</filme>
+	<filme id="matrix">
+		<tituloEN>The Matrix</tituloEN>
+		<tituloBR>The Matrix</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao>136</duracao>
+		<ano>1999</ano>
+		<site>http://www.whatisthematrix.com</site>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Andy Wachowski e Larry Wachowski</direcao>
+		<elenco>Keanu Reeves</elenco>
+		<elenco>Laurence Fishburne</elenco>
+		<elenco>Carrie-Anne Moss</elenco>
+		<elencoApoio>Hugo Weaving</elencoApoio>
+		<sinopse>Em um futuro próximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cubículo escuro, é atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que é, assim como outras pessoas, vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta à realidade e à liberdade.</sinopse>
+	</filme>
+	<filme id="outros">
+		<tituloEN>The Others</tituloEN>
+		<tituloBR>Os Outros</tituloBR>
+		<genero>Suspense</genero>
+		<duracao>114</duracao>
+		<ano>2001</ano>
+		<site>http://www.theothers.com</site>
+		<distribuicao>Miramax Films / Dimension Films</distribuicao>
+		<direcao>Alejandro Amenábar</direcao>
+		<elenco>Nicole Kidman </elenco>
+		<elencoApoio>Christopher Eccleston </elencoApoio>
+		<elencoApoio>Fionnula Flanagan </elencoApoio>
+		<elencoApoio>Elaine Cassidy</elencoApoio>
+		<sinopse>Durante a 2ª Guerra Mundial, Grace (Nicole Kidman) decide por se mudar, juntamente com seus dois filhos, para uma mansão isolada na ilha de Jersey, a fim de esperar que seu marido retorne da guerra. Como seus filhos possuem uma estranha doença que os impedem de receber diretamente a luz do sol, a casa onde vivem está sempre em total escuridão. Eles vivem sozinhos seguindo religiosamente certas regras, como nunca abrir uma porta sem fechar a anterior, mas quando eles contratam empregados para a casa eles terminam quebrando estas regras, fazendo com que imprevisíveis consequências ocorram. </sinopse>
+	</filme>
+	<filme id="ryan">
+		<tituloEN>Saving Private Ryan</tituloEN>
+		<tituloBR>O Resgate do Soldado Ryan</tituloBR>
+		<genero>Guerra</genero>
+		<duracao>160</duracao>
+		<ano>1998</ano>
+		<site>http://www.rzm.com/pvt.ryan/index.html </site>
+		<distribuicao>DreamWorks Distribution L.L.C. / Paramount Pictures / UIP</distribuicao>
+		<direcao>Steven Spielberg</direcao>
+		<elenco>Tom Hanks</elenco>
+		<elencoApoio>Tom Sizemore</elencoApoio>
+		<elencoApoio>Edward Burns</elencoApoio>
+		<elenco>Matt Damon</elenco>
+		<sinopse>Ao desembarcar na Normandia, no Dia D, capitão recebe a missão, na praia, de resgatar com vida o soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate.</sinopse>
+	</filme>
+	<filme id="castAway">
+		<tituloEN>Cast Away</tituloEN>
+		<tituloBR>Náufrago</tituloBR>
+		<genero>Drama</genero>
+		<duracao>143</duracao>
+		<ano>2000</ano>
+		<site>http://www.castawaymovie.com </site>
+		<distribuicao>20th Century Fox Film Corporation / UIP</distribuicao>
+		<direcao>Robert Zemeckis</direcao>
+		<elenco>Tom Hanks</elenco>
+		<elenco>Helen Hunt</elenco>
+		<elencoApoio>Christopher Noth</elencoApoio>
+		<sinopse>Chuck Noland (Tom Hanks) é um inspetor da Federal Express (FedEx), multinacional encarregada de enviar cargas e correspondências, que tem por função checar vários escritórios da empresa pelo planeta. Porém, em uma de suas costumeiras viagens ocorre um acidente, que o deixa preso em uma ilha completamente deserta por 4 anos. Com sua noiva (Helen Hunt) e seus amigos imaginando que ele morrera no acidente, Chuck precisa lutar para sobreviver, tanto fisicamente quanto emocionalmente, a fim de que um dia consiga retornar à civilização.</sinopse>
+	</filme>
+	<filme id="MinorityReport">
+		<tituloEN>Minority Report</tituloEN>
+		<tituloBR>Minority Report - A Nova Lei</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao>146</duracao>
+		<ano>2002</ano>
+		<site>http://www.minorityreport.com</site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>Steven Spielberg</direcao>
+		<elenco>Tom Cruise</elenco>
+		<elencoApoio>Max von Sydow</elencoApoio>
+		<elenco>Steve Harris</elenco>
+		<sinopse>Washington, 2054. O assassinato foi banido, pois há a divisão pré-crime, um setor da polícia onde futuro é visualizado através de paranormais, os precogs, e o culpado é punido antes do crime ter sido cometido. Quando os três precogs, que só trabalham juntos e flutuam conectados em um tanque de fluido nutriente, têm uma visão, o nome da vítima aparece escrito em uma pequena esfera e em outra esfera está o nome do culpado. Também surgem imagens do crime e a hora exata em que acontecerá. Estas informações são fornecidas para um elite de policiais, que tentam descobrir onde será o assassinato, mas há um dilema: se alguém é preso antes de cometer o crime pode esta pessoa ser acusada de assassinato, pois o que motivou sua prisão nunca aconteceu? O líder da equipe de policiais é John Anderton (Tom Cruise), que perdeu o filho há seis anos atrás em virtude de um criminoso que o seqüestrou. O desaparecimento da criança o fez se viciar em drogas e ainda continua dependente, mas isto não o impede de ser o policial mais atuante na divisão pré-crime. Porém algo muda totalmente sua vida quando vê, através dos precogs, que matará um desconhecido em menos de trinta e seis horas. A confiança que Anderton tinha no sistema rapidamente se perde e John segue uma pequena pista, que pode ser a chave da sua inocência: um estranho caso que não foi solucionado e há um "relatório menor", uma documentação de um dos raros eventos no qual o que um precog viu é diferente dos outros. Mas apurar isto não é uma tarefa fácil, pois a divisão pré-crime já descobriu que John Anderton cometerá um assassinato e todos os policiais que trabalhavam com ele tentam agora capturá-lo.</sinopse>
+	</filme>
+	<filme id="fastFurious">
+		<tituloEN>The Fast and the Furious</tituloEN>
+		<tituloBR>Velozes e Furiosos</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>107</duracao>
+		<ano>2001</ano>
+		<site>http://www.thefastandthefurious.com</site>
+		<distribuicao>Universal Pictures / UIP</distribuicao>
+		<direcao>Rob Cohen</direcao>
+		<elencoApoio>Vin Diesel</elencoApoio>
+		<elencoApoio>Paul Walker</elencoApoio>
+		<elencoApoio>Michelle Rodriguez</elencoApoio>
+		<elencoApoio>Jordana Brewster</elencoApoio>
+		<sinopse>Domenic Toretto (Vin Diesel) é o líder de uma gangue de corridas de ruas em Los Angeles que está sendo investigado pela polícia por roubo de equipamentos eletrônicos. Para investigá-lo é enviado Brian Spindler (Paul Walker), que se infiltra na gangue na intenção de descobrir se Toretto é realmente o autor dos crimes e se há alguém mais por trás deles.</sinopse>
+	</filme>
+	<filme id="CatchMeIfYouCan">
+		<tituloEN>Catch Me If You Can</tituloEN>
+		<tituloBR>Prenda-me Se For Capaz</tituloBR>
+		<genero>Policial</genero>
+		<duracao>140</duracao>
+		<ano>2002</ano>
+		<site>http://www.dreamworks.com/catchthem</site>
+		<distribuicao>DreamWorks Distribution LLC / UIP</distribuicao>
+		<direcao>Steven Spielberg</direcao>
+		<elenco>Leonardo DiCaprio</elenco>
+		<elenco>Tom Hanks</elenco>
+		<elenco>Christopher Walken</elenco>
+		<elenco>Martin Sheen</elenco>
+		<sinopse>Frank Abagnale Jr. (Leonardo DiCaprio) já foi médico, advogado e co-piloto, tudo isso com apenas 18 anos. Mestre na arte do disfarce, ele aproveita suas habilidades para viver a vida como quer e praticar golpes milionários, que fazem com que se torne o ladrão de banco mais bem-sucedido da história dos Estados Unidos com apenas 17 anos. Mas em seu encalço está o agente do FBI Carl Hanratty (Tom Hanks), que usa todos os meios que tem ao seu dispor para encontrá-lo e capturá-lo.</sinopse>
+	</filme>
+	<filme id="TopGun">
+		<tituloEN>Top Gun</tituloEN>
+		<tituloBR>Top Gun - Ases Indomáveis</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>109</duracao>
+		<ano>1986</ano>
+		<site/>
+		<distribuicao>Paramount Pictures</distribuicao>
+		<direcao>Tony Scott</direcao>
+		<elenco>Tom Cruise</elenco>
+		<elenco>Kelly McGillis</elenco>
+		<elenco>Val Kilmer</elenco>
+		<elenco>Anthony Edwards</elenco>
+		<sinopse>Pete Mitchell (Tom Cruise), um jovem piloto, ingressa na Academia Aérea para se tornar piloto de caça. Lá se envolve com Charlotte Blackwood (Kelly McGillis), uma bela mulher, e enfrenta um competidor à sua altura (Val Kilmer).</sinopse>
+	</filme>
+	<filme id="braveheart">
+		<tituloEN>Braveheart</tituloEN>
+		<tituloBR>Coração Valente</tituloBR>
+		<genero>Épico</genero>
+		<duracao>177</duracao>
+		<ano>1995</ano>
+		<site/>
+		<distribuicao>20th Century Fox Film Corporation / Paramount Pictures</distribuicao>
+		<direcao>Mel Gibson</direcao>
+		<elenco>Mel Gibson</elenco>
+		<elenco>Sophie Marceau</elenco>
+		<elenco>Patrick McGoohan</elenco>
+		<elenco>Catherine McCormack</elenco>
+		<sinopse>No século XIII, soldados ingleses matam mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Ele resolve então liderar seu povo numa vingança pessoal que acaba deflagrando violenta luta pela liberdade.</sinopse>
+	</filme>
+	<filme id="Stigmata">
+		<tituloEN>Stigmata</tituloEN>
+		<tituloBR>Stigmata</tituloBR>
+		<genero>Thriller</genero>
+		<duracao/>
+		<ano>1999</ano>
+		<site>http://www.mgm.com/stigmata</site>
+		<distribuicao>MGM / UIP</distribuicao>
+		<direcao>Rupert Wainwright</direcao>
+		<elenco>Patricia Arquette</elenco>
+		<elenco>Gabriel Byrne</elenco>
+		<elencoApoio>Jonathan Pryce</elencoApoio>
+		<elencoApoio>Nia Long</elencoApoio>
+		<sinopse>Belo Quinto, uma fictícia cidade no sudeste do Brasil, recebe a visita do padre Andrew Kiernan (Gabriel Byrne), que foi mandado pelo Vaticano para investigar uma igreja que tem a estátua de uma santa que verte lágrimas de sangue. Lágrimas estas que começaram no dia em que o padre Paulo Almeida, o responsável pela igreja, morreu. Enquanto Kiernan fotografava a estátua, que sangrava, um garoto furta um rosário que estava junto do corpo do falecido e vende o terço para uma turista, que por sua vez manda de presente para Frankie Paige (Patricia Arquette), sua filha, que é cabeleireira em Nova York. Em pouco tempo, ela passa a ser vítima de "estigmas", chagas idênticas às de Cristo, e é Andrew Kiernan o encarregado de investigar o fenômeno. Inicialmente Kiernan descarta a possibilidade dos "estigmas", pois todos os "estigmatas" são pessoas bastante religiosas e Paige não acredita em Deus. Mas Kiernan vê o suficiente para quebrar os padrões estabelecidos pelo Vaticano, e acredita que se ele não fizer nada, Frankie pode morrer. Gradativamente, ele pass a suspeitar que seu superior, o cardeal Daniel Houseman (Jonathan Pryce), não quer que toda a verdade venha à tona.</sinopse>
+	</filme>
+	<filme id="bridget-jones">
+		<tituloEN>Bridget Jones's Diary</tituloEN>
+		<tituloBR>O Diário de Bridget Jones</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>94</duracao>
+		<ano>2001</ano>
+		<site>http://entertainment.msn.com/bridget/</site>
+		<distribuicao>Miramax Films / Universal Pictures / UIP</distribuicao>
+		<direcao>Sharon Maguire</direcao>
+		<elenco>Renée Zellweger</elenco>
+		<elencoApoio>Colin Firth</elencoApoio>
+		<elenco>Hugh Grant</elenco>
+		<elencoApoio>Jim Broadbent</elencoApoio>
+		<sinopse>Bridget Jones (Renée Zellweger) é uma mulher de 32 anos que, em pleno Ano Novo, decide que já está mais do que na hora do que tomar o controle de sua própria vida e também começar a escrever um diário. Com isso, Bridget começa a escrever o mais provocativo, erótico e histérico livro que já esteve na cabeceira de sua cama, onde ela poderá também colocar as suas opiniões sobre os mais diversos assuntos de sua nova vida.</sinopse>
+	</filme>
+	<filme id="JustMarried">
+		<tituloEN>Just Married</tituloEN>
+		<tituloBR>Recém-Casados</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>95</duracao>
+		<ano>2003</ano>
+		<site>http://www.justmarriedmovie.com</site>
+		<distribuicao>20th Century Fox Corporation</distribuicao>
+		<direcao>Shawn Levy</direcao>
+		<elenco>Ashton Kutcher</elenco>
+		<elenco>Brittany Murphy</elenco>
+		<elencoApoio>Christian Kane</elencoApoio>
+		<elencoApoio>David Moscow</elencoApoio>
+		<sinopse>Sarah McNerney (Brittany Murphy) é uma jovem mulher que decide se casar com Tom Leezak (Ashton Kutcher), mesmo sabendo que esta não é a vontade de seus familiares e amigos. Logo após o casamento eles partem rumo à Europa, em uma lua-de-mel atrapalhada. Mas os problemas do jovem casal começam realmente a complicar quando chega Peter Prentis (Christian Kane), ex-namorado de Sarah que foi enviado pelos pais dela, na intenção de acabar de uma vez por todas com o casamento recém-firmado.</sinopse>
+	</filme>
+	<filme id="BladeRunner">
+		<tituloEN>Blade Runner</tituloEN>
+		<tituloBR>Blade Runner, O Caçador de Andróides</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao>118</duracao>
+		<ano>1982</ano>
+		<site/>
+		<distribuicao>Columbia TriStar / Warner Bros.</distribuicao>
+		<direcao>Ridley Scott</direcao>
+		<elenco>Harrison Ford</elenco>
+		<elencoApoio>Rutger Hauer</elencoApoio>
+		<elencoApoio>Sean Young</elencoApoio>
+		<elencoApoio>Edward James Olmos</elencoApoio>
+		<sinopse>No início do século XXI, uma grande corporação desenvolve um robô que é mais forte e ágil que o ser humano e se equiparando em inteligência. São conhecidos como replicantes e utilizados como escravos na colonização e exploração de outros planetas. Mas, quando um grupo dos robôs mais evoluídos provoca um motim, em uma colônia fora da Terra, este incidente faz os replicantes serem considerados ilegais na Terra, sob pena de morte. A partir de então, policiais de um esquadrão de elite, conhecidos como Blade Runner, têm ordem de atirar para matar em replicantes encontrados na Terra, mas tal ato não é chamado de execução e sim de remoção. Até que, em novembro de 2019, em Los Angeles, quando cinco replicantes chegam à Terra, um ex-Blade Runner (Harrison Ford) é encarregado de caçá-los.</sinopse>
+	</filme>
+	<filme id="LifeHouse">
+		<tituloEN>Life as a House</tituloEN>
+		<tituloBR>Tempo de Recomeçar</tituloBR>
+		<genero>Drama</genero>
+		<duracao>145</duracao>
+		<ano>2001</ano>
+		<site>http://www.lifeasahouse.com</site>
+		<distribuicao>New Line Cinema</distribuicao>
+		<direcao>Irwin Winkler</direcao>
+		<elenco>Kevin Kline</elenco>
+		<elenco>Kristin Scott Thomas</elenco>
+		<elencoApoio>Hayden Christensen</elencoApoio>
+		<elencoApoio>Jena Malone</elencoApoio>
+		<sinopse>George Monroe (Kevin Kline) é um arquiteto de meia idade que descobre repentinamente que está com câncer e tem pouco tempo de vida. Ele então decide aproveitar o tempo que lhe resta para se aproximar de Sam (Hayden Christensen), seu filho problemático e rebelde, bem como fazer as pazes com Robin (Kristin Scott Thomas), sua ex-esposa. Ao mesmo tempo, George decide por construir uma casa, na intenção de deixá-la como herança para Sam.</sinopse>
+	</filme>
+	<filme id="BoatTrip">
+		<tituloEN>Boat Trip</tituloEN>
+		<tituloBR>O Barco do Amor</tituloBR>
+		<genero/>
+		<duracao/>
+		<ano/>
+		<site/>
+		<distribuicao/>
+		<direcao/>
+		<elenco/>
+		<elencoApoio/>
+		<elencoApoio/>
+		<elencoApoio/>
+		<sinopse/>
+	</filme>
+	<filme id="BruceAlmighty">
+		<tituloEN>Bruce Almighty</tituloEN>
+		<tituloBR>Todo Poderoso</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>94</duracao>
+		<ano>2003</ano>
+		<site>http://www.brucealmighty.com</site>
+		<distribuicao>Universal Pictures / Buena Vista International / DreamWorks Distribution LLC</distribuicao>
+		<direcao>Tom Shadyac</direcao>
+		<elenco>Jim Carrey</elenco>
+		<elenco>Jennifer Aniston</elenco>
+		<elenco>Morgan Freeman</elenco>
+		<elencoApoio>Philip Baker Hall</elencoApoio>
+		<sinopse>Bruce Nolan (Jim Carrey) é um jornalista que tem um bom emprego na TV e uma bela namorada, Grace (Jennifer Aniston). Num acesso de fúria ele começa a xingar e questionar Deus e seu modo de fazer tudo funcionar, o que faz com que ele próprio (Morgan Freeman) resolva descer à Terra como um homem comum e lhe entregar o poder de comandar o planeta da forma como desejar durante um dia. É quando Bruce percebe o quão difícil é ser Deus e tomar conta de tudo o que ocorre no planeta.</sinopse>
+	</filme>
+	<filme id="X2-Men">
+		<tituloEN>X2: X-Men United</tituloEN>
+		<tituloBR>X-Men 2</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>134</duracao>
+		<ano>2003</ano>
+		<site>http://www.x2-movie.com</site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>Bryan Singer</direcao>
+		<elenco>Patrick Stewart</elenco>
+		<elencoApoio>Ian McKellen</elencoApoio>
+		<elencoApoio>Hugh Jackman</elencoApoio>
+		<elenco>Halle Berry</elenco>
+		<sinopse>Ainda vivendo em um mundo que os odeia, os mutantes passam a sofrer uma discriminação ainda maior quando um novo mutante provoca um ataque ao Presidente dos Estados Unidos, quase matando-o. A notícia faz com que a sociedade se manifeste ainda mais contra os mutantes, fazendo com que ganhe força o projeto do registro de mutantes. William Stryker (Brian Cox), um militar que tem experiência em lidar com mutantes e uma ligação com o passado de Wolverine (Hugh Jackman), torna-se um dos porta-vozes deste pedido, além de se tornar o responsável por um plano que tem por meta erradicar de uma vez por todas os mutantes. Com a autorização do Presidente, Stryker inicia uma grande ofensiva contra os mutantes, invadindo a mansão do Professor Charles Xavier (Patrick Stewart) e forçando que Magneto (Ian McKellen), que fugiu da prisão, se una aos X-Men para combater Stryker.</sinopse>
+	</filme>
+	<filme id="Terminator3">
+		<tituloEN>Terminator 3: The Rise of the Machines</tituloEN>
+		<tituloBR>O Exterminador do Futuro 3 - A Rebelião das Máquinas</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao/>
+		<ano>2003</ano>
+		<site>http://www.terminator3.com</site>
+		<distribuicao>Warner Bros. / Columbia TriStar / Sony Pictures International</distribuicao>
+		<direcao>Jonathan Mostow</direcao>
+		<elenco>Arnold Schwarzenegger</elenco>
+		<elencoApoio>Nick Stahl</elencoApoio>
+		<elencoApoio>Claire Danes</elencoApoio>
+		<elenco>Kristanna Loken</elenco>
+		<sinopse>A primeira batalha entre os humanos e a inteligência artificial da empresa SkyNet está prestes a ocorrer. Na intenção de eliminar John Connor (Nick Stahl), um dos líderes dos humanos, as máquinas enviam um novo ciborgue exterminador em seu encalço: T-X (Kristanna Loken). Para protegê-lo mais uma vez o ciborgue T-800 (Arnold Schwarzenegger) volta à cena.</sinopse>
+	</filme>
+	<filme id="X-Men">
+		<tituloEN>X-Men</tituloEN>
+		<tituloBR>X-Men - O Filme</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>105</duracao>
+		<ano>2000</ano>
+		<site>http://www.x-men-the-movie.com</site>
+		<distribuicao>20th Century Fox</distribuicao>
+		<direcao>Bryan Singer</direcao>
+		<elenco>Patrick Stewart</elenco>
+		<elencoApoio>Ian McKellen</elencoApoio>
+		<elencoApoio>Famke Janssen</elencoApoio>
+		<elencoApoio>James Marsden</elencoApoio>
+		<sinopse>Em um futuro próximo há pessoas que são o próximo degrau na escada evolucionária humana, os mutantes. Dotados de um fator X em sua carga genética, cada mutante desenvolve um tipo diferente de poder e muitas vezes precisam aprender a controlá-lo, pois só se manifesta na adolescência ou mesmo quando se tornam adultos. Os mutantes sofrem um grande preconceito, pois os humanos em geral não entendem os poderes deles e temem que os mutantes, por serem superiores às pessoas comuns, irão perseguir a raça humana. Do lado dos mutantes, o combate a esse preconceito não acontece de modo uniforme. Alguns mutantes, os X-Men, são liderados pelo Professor Xavier (Patrick Stewart), um telepata, e pretendem vencer o preconceito por meios pacíficos, convencendo o público de que humanos e mutantes podem conviver em paz. No entanto a Irmandade dos Mutantes, comandada pelo temível Magneto (Ian McKellen), que pode alterar e modificar a estrutura dos metais, declarou guerra aos humanos, pois está cansado de tanta perseguição e humilhação. O ódio e o medo que os humanos sentem pelos mutantes está à beira do fanatismo, principalmente por causa de uma campanha antimutantes liderada pelo senador Robert Kelly (Bruce Davison). Particularmente dois mutantes serão envolvidos nesta luta: o primeiro é Wolverine (Hugh Jackman) que, dotado de incrível força, não lembra do seu passado; e o segundo éVampira (Anna Paquim), uma jovem que absorve toda a força vital de qualquer pessoa que ela toque, sendo que se o contato for um pouco prolongado esta pessoa morrerá. Estes dois mutantes são disputados pela Irmandade dos Mutantes e pelos X-Men, pois cada facção quer fortalecer seu lado. A diferença é que Xavier quer os mutantes para também ajudá-los a compreender e controlar seus poderes, enquanto Magneto precisa dos dois, Vampira em especial, para levar a cabo o plano de atingir os líderes mundiais, que pretendem decidir o futuro dos mutantes na Ilha de Ellis, Nova York.</sinopse>
+	</filme>
+	<filme id="TenDays">
+		<tituloEN>How to Lose a Guy in 10 Days</tituloEN>
+		<tituloBR>Como Perder um Homem em 10 Dias</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>110</duracao>
+		<ano>2003</ano>
+		<site>http://www.howtoloseaguymovie.com</site>
+		<distribuicao>Paramount Pictures / UIP</distribuicao>
+		<direcao>Donald Petrie</direcao>
+		<elenco>Kate Hudson</elenco>
+		<elenco>Matthew McConaughey</elenco>
+		<elencoApoio>Kathryn Hahn</elencoApoio>
+		<elencoApoio>Annie Parisse</elencoApoio>
+		<sinopse>Ben Barry (Matthew McConaughey) é um publicitário que faz uma grande aposta com seu chefe: caso faça com que uma mulher se apaixone por ele em 10 dias ele será o responsável por uma concorrida campanha de diamantes que pertence à empresa. A vítima escolhida por Ben é Andie Anderson (Kate Hudson), uma jornalista feminista que está desenvolvendo uma matéria sobre como perder um homem em 10 dias e está decidida a infernizar a vida de qualquer homem que se aproximar dela. Ambos se conhecem em um bar, sendo que escolhem um ao outro como alvo de seus planos.</sinopse>
+	</filme>
+	<filme id="tron">
+		<tituloEN>Tron</tituloEN>
+		<tituloBR>Tron, uma Odisseia Eletronica</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao/>
+		<ano/>
+		<site/>
+		<distribuicao/>
+		<direcao/>
+		<elenco/>
+		<elenco/>
+		<elenco/>
+		<elenco/>
+		<sinopse/>
+	</filme>
+	<filme id="AdvogadoDiabo">
+		<tituloEN>The Devil's Advocate</tituloEN>
+		<tituloBR>O Advogado do Diabo</tituloBR>
+		<genero>Suspense</genero>
+		<duracao>145</duracao>
+		<ano>1997</ano>
+		<site>http://www.wbmovies.com/devils </site>
+		<distribuicao>Warner Bros</distribuicao>
+		<direcao>Taylor Hackford</direcao>
+		<elenco>Al Pacino</elenco>
+		<elenco>Keanu Reeves</elenco>
+		<elencoApoio>Charlize Theron</elencoApoio>
+		<elencoApoio>Jeffrey Jones</elencoApoio>
+		<sinopse>Kevin Lomax (Keanu Reeves), advogado de uma pequena cidade da Flórida que nunca perdeu um caso, é contratado John Milton (Al Pacino), dono da maior firma de advocacia de Nova York. Kevin recebe um alto salário e várias mordomias, apesar da desaprovação de Alice Lomax (Judith Ivey), sua mãe e uma fervorosa religiosa, que compara Nova York a Babilônia. No início tudo parece correr bem, mas logo Mary Ann (Charlize Theron), a esposa do advogado, sente saudades de sua antiga casa e começa a testemunhar aparições demoníacas. No entanto, Kevin está empenhado em defender um cliente acusado de triplo assassinato e cada vez dá menos atenção à sua mulher, enquanto que seu misterioso chefe parece sempre saber como contornar cada problema e tudo que perturba o jovem advogado.</sinopse>
+	</filme>
+	<filme id="AI">
+		<tituloEN>A.I. Artificial Inteligence</tituloEN>
+		<tituloBR>A.I. Inteligência Artificial</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao/>
+		<ano>2001</ano>
+		<site>http://www.aimovie.com</site>
+		<distribuicao>DreamWorks Distribution L.L.C. / Warner Bros</distribuicao>
+		<direcao>Steven Spielberg</direcao>
+		<elenco>Haley Joel Osment</elenco>
+		<elencoApoio>Jude Law</elencoApoio>
+		<elencoApoio>Frances O'Connor</elencoApoio>
+		<elencoApoio>Jake Thomas</elencoApoio>
+		<sinopse>Na metade do século XXI, o efeito estufa derreteu uma grande parte das colatas polares da Terra, fazendo com que boa parte das cidades litorâneas do planeta fiquem parcialmente submersas. Para controlar este desastre ambiental a humanidade conta com o auxílio de uma nova forma de computador independente, com inteligência artificial, conhecido como A.I. É neste contexto que vive o garoto David Swinton (Haley Joel Osment), que irá passar por uma jornada emocional inesquecível.</sinopse>
+	</filme>
+	<filme id="TenThings">
+		<tituloEN>10 Things I Hate About You</tituloEN>
+		<tituloBR>10 Coisas que eu Odeio em Voce</tituloBR>
+		<genero/>
+		<duracao/>
+		<ano>1999</ano>
+		<site>http://www.10thingsihateaboutyou.com</site>
+		<distribuicao>Buena Vista Pictures</distribuicao>
+		<direcao>Gil Junger</direcao>
+		<elenco>Heath Ledger</elenco>
+		<elenco>Julia Stiles</elenco>
+		<elencoApoio>Joseph Gordon-Levitt</elencoApoio>
+		<elencoApoio>Larisa Oleynik</elencoApoio>
+		<sinopse>A situação está tensa na cada dos Stratford. Bianca (Larisa Oleynik) não vê a hora de arranjar um namorado, mas seu pai (Larry Miller) não permite que ela saia com garotos. Após muita insistência, o pai toma uma resolução: Bianca pode namorar, desde que sua irmã, Katharina (Julia Stiles), namore também. Só que Katharina é uma verdadeira megera, que não tem amigos na escola nem em lugar algum. Para resolver a questão, Cameron (Joseph Gordon-Levitt), apaixonado por Bianca, resolve custear Patrick Verona (Heath Ledger) na tentativa de fazer com que Katharina se apaixone por ele.</sinopse>
+	</filme>
+	<filme id="Stargate">
+		<tituloEN>Stargate</tituloEN>
+		<tituloBR>Stargate</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao>123</duracao>
+		<ano>1994</ano>
+		<site/>
+		<distribuicao/>
+		<direcao>Rolland Emmerich</direcao>
+		<elenco>Kurt Russell</elenco>
+		<elencoApoio>James Spader</elencoApoio>
+		<elencoApoio>Viveca Lindfors</elencoApoio>
+		<elencoApoio>Alexis Cruz</elencoApoio>
+		<sinopse>Um egiptólogo (James Spader) não-reconhecido por suas teorias é convidado a trabalhar em uma base secreta e lá toma contato com um anel de trinta metros coberto de hieróglifos. Ele descobre a chave para se chegar a um novo mundo, pois aquele anel é um portão estelar e, junto com uma pequena tropa de elite, atravessa o portão e se vê diante de uma experiência e uma aventura inimaginável. 
+</sinopse>
+	</filme>
+	<filme id="BoneCollector">
+		<tituloEN>The Bone Collector</tituloEN>
+		<tituloBR>O Colecionador de Ossos</tituloBR>
+		<genero>Suspense</genero>
+		<duracao>118</duracao>
+		<ano>1999</ano>
+		<site>http://www.thebonecollector.com</site>
+		<distribuicao>Universal Pictures</distribuicao>
+		<direcao>Phillip Noyce</direcao>
+		<elenco>Denzel Washington</elenco>
+		<elenco>Angelina Jolie</elenco>
+		<elencoApoio>Queen Latifah</elencoApoio>
+		<elencoApoio/>
+		<sinopse>Em Nova York, durante uma investigação Lincoln Rhyme (Denzel Washington), um conceituado policial, sofre um acidente quando uma viga cai sobre ele, deixando-o tetraplégico. Após quatro anos em uma cama, onde é vítima de ataques que podem transformá-lo em um vegetal, Rhyme se concentra na idéia de suicídio mas como é difícil para ele se matar tenta convencer aos que estão em sua volta em ajudá-lo na eutanásia, que chama de transição final. Mas repentinamente tudo muda quando um serial killer comete crime violentos e fica claro que o criminoso quer dizer alguma coisa. Em virtude de ser respeitado por seus colegas um laboratório, os meios modernos de investigação são levados para sua casa, mas o mais importante é a presença de Amelia Donaghy (Angelina Jolie), uma policial de rua que Rhyme considera ser a pessoa perfeita para investigar. Mas Howard Cheney (Michael Rooker), o chefe de polícia, é um monumento à incompetência que só sabe criar entraves, apesar de mais crimes estarem acontecendo.</sinopse>
+	</filme>
+	<filme id="Profecia">
+		<tituloEN>The Omen</tituloEN>
+		<tituloBR>A Profecia</tituloBR>
+		<genero>Terror</genero>
+		<duracao/>
+		<ano/>
+		<site/>
+		<distribuicao/>
+		<direcao/>
+		<elenco/>
+		<elenco/>
+		<elenco/>
+		<elenco/>
+		<sinopse/>
+	</filme>
+	<filme id="Dias28">
+		<tituloEN>28 Days</tituloEN>
+		<tituloBR>28 Dias</tituloBR>
+		<genero>Drama</genero>
+		<duracao>103</duracao>
+		<ano>2000</ano>
+		<site>http://www.soapcity.com/28days</site>
+		<distribuicao>Columbia Pictures</distribuicao>
+		<direcao>Betty Thomas</direcao>
+		<elenco>Sandra Bullock</elenco>
+		<elencoApoio>Viggo Mortensen</elencoApoio>
+		<elencoApoio>Dominic West</elencoApoio>
+		<elenco/>
+		<sinopse>Gwen Cummings (Sandra Bullock) é uma escritora que leva sua vida de forma selvagem. Saltando de festa em festa, as coisas começam a mudar quando ela, bêbada, rouba a limusine no meio do casamento de sua irmã e bate com o carro numa casa. Encaminhada para um período de 28 dias numa clínica de reabilitação para dependentes de álcool, Gwen tem que aprender a vida num lugar onde as regras são rígidas e têm que ser cumpridas.</sinopse>
+	</filme>
+	<filme id="Animal">
+		<tituloEN>The Animal</tituloEN>
+		<tituloBR>O Animal</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>90</duracao>
+		<ano>2001</ano>
+		<site>http://www.mediatrip.com/theanimal</site>
+		<distribuicao>Columbia Pictures / Sony Pictures Entertainment</distribuicao>
+		<direcao>Luke Greenfield</direcao>
+		<elenco>Rob Schneider</elenco>
+		<elencoApoio>Colleen Haskell</elencoApoio>
+		<elencoApoio>John C. McGinley</elencoApoio>
+		<elenco>Adam Sandler</elenco>
+		<sinopse>Marvin Mage (Rob Schneider) é um fracote que sempre sonhou em ser um policial mas nunca teve físico para tal profissão. Sua vida era um completo fiasco até sofrer um grave acidente automobilístico, que quase o matou. Para salvar sua vida, um cientista decidiu por fazer uma inovadora cirurgia, que reconstruía seu corpo com órgãos de animais. A experiência dá certo e a partir de então Marvin fica famoso e se torna um superpolicial. Porém, logo os novos órgãos fazem com que Marvin passe a ter instintos animais, que se manifestam nas piores horas e das maneiras mais bizarras possíveis.</sinopse>
+	</filme>
+	<filme id="Alien">
+		<tituloEN>Alien</tituloEN>
+		<tituloBR>Alien, o 8º passageiro</tituloBR>
+		<genero>Ficção Científica</genero>
+		<duracao>116</duracao>
+		<ano>1979</ano>
+		<site>http://www.alien-movies.com </site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>Ridley Scott</direcao>
+		<elencoApoio>Tom Skerritt</elencoApoio>
+		<elenco>Sigourney Weaver</elenco>
+		<elencoApoio>Veronica Cartwright</elencoApoio>
+		<elenco/>
+		<sinopse>Nave espacial, ao retornar à Terra, recebe estranhos sinais vindos de um asteróide. Ao investigarem o local, um dos tripulantes é atacado por um estranho ser. Mas o que parecia ser um ataque isolado, se transforma em um terror constante, pois o tripulante atacado levou para dentro da nave o embrião de um alienígena, que não para de crescer e tem como meta matar toda a tripulação.</sinopse>
+	</filme>
+	<filme id="BlackHawkDown">
+		<tituloEN>Black Hawk Down</tituloEN>
+		<tituloBR>Falcao Negro em Perigo</tituloBR>
+		<genero>Drama </genero>
+		<duracao>143</duracao>
+		<ano>2001</ano>
+		<site>http://www.spe.sony.com/movies/blackhawkdown</site>
+		<distribuicao>Columbia Pictures / Sony Pictures Entertainment</distribuicao>
+		<direcao>Ridley Scott</direcao>
+		<elenco>Josh Hartnett</elenco>
+		<elencoApoio>Eric Bana</elencoApoio>
+		<elenco>Ewan McGregor</elenco>
+		<elenco/>
+		<sinopse>Em outubro de 1993, os Estados Unidos enviaram um grande contingente de soldados para a Somália, que estava passando por uma guerra civil na época. O plano do exército americano era enviar tropas para o local a fim de desestabilizar o governo da Somália para poder levar comida e ajuda humanitária para a população faminta. Em uma de suas missões, cerca de 100 soldados são enviados para capturar dois generais somalianos mas a operação, que deveria durar em torno de uma hora, passa por complicações quando dois helicópteros Black Hawk são abatidos por atiradores do exército local. A partir de então tem início um grande conflito entre os soldados americanos e o exército local, que resulta em uma batalha de 15 horas e centenas de mortes.</sinopse>
+	</filme>
+	<filme id="TrainingDay">
+		<tituloEN>Training Day</tituloEN>
+		<tituloBR>Dia de Treinamento</tituloBR>
+		<genero>Policial</genero>
+		<duracao>123</duracao>
+		<ano>2001</ano>
+		<site>http://trainingday.warnerbros.com</site>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Antoine Fuqua</direcao>
+		<elenco>Denzel Washington</elenco>
+		<elencoApoio>Ethan Hawke</elencoApoio>
+		<elencoApoio>Scott Glenn</elencoApoio>
+		<elenco/>
+		<sinopse>O sonho de Jake Hoyt (Ethan Hawke), um jovem policial de Los Angeles, era entrar na equipe de narcóticos da polícia local. Mas quando ele finalmente consegue este posto recebe como oficial de treinamento e parcerio Alonzo Harris (Denzel Washington), um policial veterano e corrupto. Com o passar do dia o jovem policial é exposto a todo tipo de corrupção existente, é obrigado a usar crack e é ainda acusado de assassinato. Todos estes acontecimentos são orquestrados por Alonzo a fim de encobrir um engano cometido por ele junto à máfia russa, que pode fazer com que ele seja morto se não conseguir uma grande quantia de dinheiro até a meia-noite.</sinopse>
+	</filme>
+	<filme id="Seven">
+		<tituloEN>Seven</tituloEN>
+		<tituloBR>Seven - Os Sete Crimes Capitais</tituloBR>
+		<genero>Policial</genero>
+		<duracao>128</duracao>
+		<ano>1995</ano>
+		<site/>
+		<distribuicao>New Line Cinema</distribuicao>
+		<direcao>David Fincher</direcao>
+		<elenco>Morgan Freeman</elenco>
+		<elenco>Brad Pitt</elenco>
+		<elencoApoio>Gwyneth Paltrow</elencoApoio>
+		<elenco/>
+		<sinopse>Dois policiais, um jovem e impetuoso (Brad Pitt) e o outro maduro e prestes a se aposentar (Morgan Freeman), são encarregados de uma periogosa investigação: encontrar um serial killer que mata as pessoas seguindo a ordem dos sete pecados capitais.</sinopse>
+	</filme>
+	<filme id="ThomasCrown">
+		<tituloEN>The Thomas Crown Affair</tituloEN>
+		<tituloBR>Thomas Crown - A Arte do Crime</tituloBR>
+		<genero>Policial</genero>
+		<duracao>113</duracao>
+		<ano>1999</ano>
+		<site>http://www.mgm.com/thethomascrownaffair</site>
+		<distribuicao>Metro-Goldwyn-Mayer Distributing Corporation / UIP</distribuicao>
+		<direcao>John McTiernan</direcao>
+		<elenco>Pierce Brosnan</elenco>
+		<elenco>Rene Russo</elenco>
+		<elencoApoio>Denis Leary</elencoApoio>
+		<elenco/>
+		<sinopse>Quando um Monet avaliado em 100 milhões de dólares é roubado do Metropolitan em Nova York, Thomas Crown (Pierce Brosnan), um bilionário que está acostumado a ter tudo que deseja, não é nem ao longe considerado suspeito, mas Catherine Banning (Rene Russo), uma investigadora contratada para reaver a pintura (por 5% do seu valor), tem certeza que Thomas é o responsável. Paralelamente Catherine e Thomas se sentem atraídos e ela principalmente é afetada pelo ciúme, mas mesmo assim diz para Thomas que sabe que ele cometeu o roubo e espera um erro dele para pegá-lo. Os dois então começam a jogar, mas também se apaixonam e isto não estava nos planos de ninguém.</sinopse>
+	</filme>
+	<filme id="mm8">
+		<tituloEN>8 mm</tituloEN>
+		<tituloBR>8 Milímetros</tituloBR>
+		<genero>Suspense</genero>
+		<duracao>123</duracao>
+		<ano>1999</ano>
+		<site>http://www.spe.sony.com/movies/8mm/index.html</site>
+		<distribuicao>Columbia Pictures / Sony Pictures Entertainment</distribuicao>
+		<direcao>Joel Schumacher  </direcao>
+		<elenco>Nicolas Cage</elenco>
+		<elenco>Joaquin Phoenix</elenco>
+		<elencoApoio>Anthony Heald</elencoApoio>
+		<sinopse>Tom Welles (Nicolas Cage), um detetive particular, é contratado por uma rica viúva, cujo marido faleceu recentemente. Ela deseja saber se um rolo de filme encontrado no cofre do finado é um autêntico snuff, no qual uma jovem é morta e tudo aparenta ser bem real. Se tratando de uma encenação tudo bem, mas se a película for um verdadeiro snuff, a viúva quer saber o nome da vítima, pois deseja de alguma forma tentar redimir em parte o crime que seu marido encomendou. A investigação leva Welles até a mãe da jovem e daí ele vai para Hollywood, onde conhece um produtor de filmes pornográficos. A obsessão de Tom em resolver o caso o afasta da sua família e, quando ele tem o caso praticamente resolvido, acaba se vendo em uma situação muito perigosa, que pode lhe custar a vida.</sinopse>
+	</filme>
+	<filme id="Endiabrado">
+		<tituloEN>Bedazzled</tituloEN>
+		<tituloBR>Endiabrado</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>100</duracao>
+		<ano>2000</ano>
+		<site>http://www.bedazzledmovie.com</site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>Harold Ramis</direcao>
+		<elenco>Brendan Fraser </elenco>
+		<elenco>Elizabeth Hurley</elenco>
+		<elencoApoio>Frances O&apos;Connor </elencoApoio>
+		<elencoApoio>Orlando Jones</elencoApoio>
+		<sinopse>Elliot (Brendan Fraser) é um enfadonho programador de computadores que está perdidamente apaixonado por sua colega de trabalho Allison (Frances O&apos;Connor). O problema é que ela não lhe dá a menor atenção. Para resolver isto, Elliot resolve vender sua alma ao Diabo (Elisabeth Hurley), que lhe dá 7 desejos para que possa enfim conquistar a garota dos seus sonhos.</sinopse>
+	</filme>
+	<filme id="Goldmember">
+		<tituloEN>Austin Powers in Goldmember</tituloEN>
+		<tituloBR>Austin Powers em O Homem do Membro de Ouro</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>93</duracao>
+		<ano>2002</ano>
+		<site>http://www.austinpowers.com</site>
+		<distribuicao>New Line Cinema / Warner Bros. / PlayArte</distribuicao>
+		<direcao>Jay Roach</direcao>
+		<elenco/>
+		<elenco>Beyoncé Knowles</elenco>
+		<elencoApoio>Michael York</elencoApoio>
+		<elencoApoio>Michael Caine</elencoApoio>
+		<sinopse>Já fazem 3 anos desde o último confronto entre Austin Powers (Mike Myers) e seu arquiinimigo Dr. Evil (Mike Myers), que fez com que Evil e seu comparsa Mini-Me (Verne Troyer) fossem levados à prisão. Entretanto, a dupla consegue escapar da penitenciária e, juntamente com Goldmember (Mike Myers), elabora mais um arrojado plano de dominação mundial, que envolve uma viagem no tempo e ainda o sequestro de Nigel Powers (Michael Caine), pai de Austin e o mais renomado espião de todos os tempos. Austin também viaja no tempo para deter os planos do trio de vilões, reencontrando em 1975 uma antiga namorada, Foxxy Cleopatra (Beyoncé Knowles), que o ajudará em seus planos.</sinopse>
+	</filme>
+	<filme id="AustinPowers">
+		<tituloEN>Austin Powers: The Spy Who Shagged Me</tituloEN>
+		<tituloBR>Austin Powers - O Agente Bond Cama</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>102</duracao>
+		<ano>1999</ano>
+		<site>http://www.austinpowers.com</site>
+		<distribuicao>New Line Cinema </distribuicao>
+		<direcao>Jay Roach</direcao>
+		<elenco>Mike Myers</elenco>
+		<elenco>Heather Graham</elenco>
+		<elencoApoio>Elizabeth Hurley</elencoApoio>
+		<sinopse>Dr. Evil está de volta e com um novo plano: desenvolver um máquina do tempo e retornar aos anos 60 para roubar o &quot;mojo&quot; de Austin Powers, logo após ele ter sido congelado. Sem seu &quot;mojo&quot;, Austin ficaria indefeso e não poderia impedir Dr. Evil de disparar um laser gigante sobre a Terra. Entretanto, o vilão não contava que Austin também fosse retornar no tempo e ter a ajuda da agente Felicity Façobem na sua batalha para recuperar o &quot;mojo&quot; perdido.</sinopse>
+	</filme>
+	<filme id="StirEchoes">
+		<tituloEN>Stir of Echoes</tituloEN>
+		<tituloBR>Ecos do Além</tituloBR>
+		<genero>Terror</genero>
+		<duracao>99</duracao>
+		<ano>1999</ano>
+		<site>http://www.stirofechoes.com</site>
+		<distribuicao>Artisan Entertainment</distribuicao>
+		<direcao>David Koepp</direcao>
+		<elenco>Kevin Bacon </elenco>
+		<elencoApoio>Kathryn Erbe </elencoApoio>
+		<elencoApoio>Illeana Douglas</elencoApoio>
+		<sinopse>Tom Witzky (Kevin Bacon) é um pacato pai de família que, numa festinha, aceita ser hipnotizado pela cunhada isa (Illeana Douglas). Mas, o que deveria ser uma simples brincadeira acaba fazendo com que Tom seja assombrado por estranhas visões. Obcecado, Tom tenta descobrir o que causou esta mudança.</sinopse>
+	</filme>
+	<filme id="BehindEnemyLines">
+		<tituloEN>Behind Enemy Lines</tituloEN>
+		<tituloBR>Atrás das Linhas Inimigas</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>105</duracao>
+		<ano>2001</ano>
+		<site>http://www.behindenemylinesmovie.com</site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>John Moore</direcao>
+		<elenco>Gene Hackman</elenco>
+		<elenco>Owen Wilson</elenco>
+		<elencoApoio>Joaquim de Almeida</elencoApoio>
+		<sinopse>Chris Burnett (Owen Wilson) é um aviador naval experiente que está frustrado por ter sido afastado das missões de combate. Durante uma missão de reconhecimento, Burnett fotografa algo que deveria ser mantido em sigilo e, por isso, tem seu avião abatido. Agora em meio às linhas inimigas, ele receberá ajuda do almirante Reignart (Gene Hackman), um oficial durão e antiquado que acredita que Burnett ainda não aprendeu o real significado de ser um soldado.</sinopse>
+	</filme>
+	<filme id="Malkovich">
+		<tituloEN>Being John Malkovich</tituloEN>
+		<tituloBR>Quero Ser John Malkovich</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>112</duracao>
+		<ano>1999</ano>
+		<site>http://www.beingjohnmalkovich.com</site>
+		<distribuicao>USA Films / UIP</distribuicao>
+		<direcao>Spike Jonze</direcao>
+		<elenco>John Cusack </elenco>
+		<elenco>Cameron Diaz</elenco>
+		<elencoApoio>Catherine Keener</elencoApoio>
+		<elencoApoio>John Malkovich</elencoApoio>
+		<sinopse>Um homem (John Cusack) consegue um novo emprego no 7º e meio andar de um edifício comercial, onde todos os funcionários devem andar curvados. Lá encontra uma porta, escondida, que leva quem ultrapassá-la até a mente do ator John Malkovich, onde pode permanecer durante 15 minutos, até ser cuspido numa estrada na saída de Nova Jersey. Impressionado com a descoberta, resolve alugar a passagem para outras pessoas, dentre elas o próprio John Malkovich.</sinopse>
+	</filme>
+	<filme id="BlackKnight">
+		<tituloEN>Black Knight</tituloEN>
+		<tituloBR>Loucuras na Idade Média</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>95</duracao>
+		<ano>2001</ano>
+		<site>http://www.blackknightmovie.com</site>
+		<distribuicao>20th Century Fox Film Corporation</distribuicao>
+		<direcao>Gil Junger</direcao>
+		<elenco>Martin Lawrence</elenco>
+		<elencoApoio>Marsha Thomason</elencoApoio>
+		<elencoApoio>Tom Wilkinson</elencoApoio>
+		<sinopse>Jamal Sky Walker (Martin Lawrence) é um homem tagarela que tem grandes planos para sua vida. Mas, no momento, ele precisa se concentrar em seu trabalho em um parque temático sobre a Idade Média. Entretanto, num dia Jamal leva uma bolada na cabeça e desmaia. Ao acordar, percebe que está em pleno ano 1328, em um mundo repleto de cavaleiros em suas armaduras e donzelas a serem salvas. Jamal então resolve ajudar um ex-cavaleiro e uma bela camponesa contra um rei malvado, usando para isso seus conhecimentos do século 21 em plena Idade Média.</sinopse>
+	</filme>
+	<filme id="titanic">
+		<tituloEN>Titanic</tituloEN>
+		<tituloBR>Titanic</tituloBR>
+		<genero>Drama</genero>
+		<duracao>194</duracao>
+		<ano>1997</ano>
+		<site>http://www.titanicmovie.com</site>
+		<distribuicao>Paramount Pictures / 20th Century Fox Film Corporation</distribuicao>
+		<direcao>James Cameron</direcao>
+		<elenco>Leonardo DiCaprio</elenco>
+		<elenco>Kate Winslet </elenco>
+		<elenco>Billy Zane </elenco>
+		<elencoApoio>Kathy Bates</elencoApoio>
+		<sinopse>Jovem aventureiro (Leonardo DiCaprio) ganha passagem, em mesa de jogo, para a primeira viagem do transatlântico Titanic. No navio, apaixona-se por Rose Bukater (Kate Winslet), noiva de um homem rico e arrogante (Caledon Hockley), com quem vive um amor proibido. Mas a viagem ganha contornos trágicos quando o navio se choca com um iceberg.</sinopse>
+	</filme>
+	<filme id="truman">
+		<tituloEN>The Truman Show</tituloEN>
+		<tituloBR>O Show de Truman</tituloBR>
+		<genero>Drama</genero>
+		<duracao>102</duracao>
+		<ano>1998</ano>
+		<site>http://www.truman-show.com</site>
+		<distribuicao>Paramount Pictures / UIP</distribuicao>
+		<direcao>Peter Weir  </direcao>
+		<elenco>Jim Carrey</elenco>
+		<elenco>Ed Harris </elenco>
+		<elencoApoio>Laura Linney</elencoApoio>
+		<sinopse>Pacato vendedor de seguros (Jim Carrey) tem sua vida virada de cabeça para baixo quando descobre que é o astro, desde que nasceu, de um show de televisão dedicado a acompanhar todos os passos de sua existência.</sinopse>
+	</filme>
+	<filme id="rockyIII">
+		<tituloEN>Rocky 3</tituloEN>
+		<tituloBR>Rocky 3 - O Desafio Supremo</tituloBR>
+		<genero>Drama</genero>
+		<duracao>100</duracao>
+		<ano>1982</ano>
+		<site/>
+		<distribuicao>MGM</distribuicao>
+		<direcao>Sylvester Stallone</direcao>
+		<elenco>Sylvester Stallone</elenco>
+		<elencoApoio>Talia Shire </elencoApoio>
+		<sinopse>Após ter sido derrotado por Clubber Lang (Mr. T), um novo e temível adversário, Rocky (Sylvester Stallone) passa a ser treinado para a luta revanche por Apollo Creed (Carl Weathers), seu antigo rival, que deseja de Rocky apenas um pequeno favor em troca dos seus serviços.</sinopse>
+	</filme>
+	<filme id="monsters">
+		<tituloEN>Monsters Inc.</tituloEN>
+		<tituloBR>Monstros S.A.</tituloBR>
+		<genero>Animação</genero>
+		<duracao/>
+		<ano>2001</ano>
+		<site>http://disney.go.com/DisneyPictures/monstersinc  </site>
+		<distribuicao>Buena Vista International</distribuicao>
+		<direcao>Peter Docter e David Silverman</direcao>
+		<elenco/>
+		<sinopse>Monstros S.A. é a maior fábrica de sustos existente. Localizada em uma dimensão paralela, a fábrica constrói portais que levam os monstros para os quartos das crianças, onde eles poderão lhes dar sustos e gerar a fonte de energia necessária para a sobrevivência da fábrica. Entre todos os monstros que lá trabalham o mais assustador de todos é James P. Sullivan (John Goodman), um grande e intimidador monstro de pêlo azul e chifres, que é chamado de Sully por seus amigos. Seu assistente é Mike Wzowski (Billy Crystal), um pequeno ser de um olho só com quem tem por missão assustar as crianças, que são consideradas tóxicas pelos monstros e cujo contato com eles seria catastrófico para seu mundo. Porém, ao visitar o mundo dos humanos a trabalho, Mike e Sully conhecem a garota Boo (Mary Gibbs), que acaba sem querer indo parar no mundo dos monstros e provoca a expulsão de ambos para o mundo real.</sinopse>
+	</filme>
+	<filme id="greenMile">
+		<tituloEN>The Green Mile</tituloEN>
+		<tituloBR>À Espera de um Milagre</tituloBR>
+		<genero>Drama</genero>
+		<duracao/>
+		<ano>1999</ano>
+		<site>http://www.thegreenmile.com  </site>
+		<distribuicao>Warner</distribuicao>
+		<direcao>Frank Darabont  </direcao>
+		<elenco>Tom Hanks</elenco>
+		<elenco>Gary Sinise</elenco>
+		<elencoApoio>James Cromwell </elencoApoio>
+		<elencoApoio>Michael Duncan</elencoApoio>
+		<sinopse>Ambientado em 1935, no corredor da morte de uma prisão sulista, À espera de um milagre é a história entre o chefe de guarda da prisão (Tom Hanks) com um de seus prisioneiros (Michael Clarke Duncan). Aos poucos, desenvolve-se entre eles uma relação incomum, baseada na descoberta de que o prisioneiro possui um dom mágico que é, ao mesmo tempo, misterioso e milagroso.</sinopse>
+	</filme>
+	<filme id="city-angels">
+		<tituloEN>City of Angels</tituloEN>
+		<tituloBR>Cidade dos Anjos</tituloBR>
+		<genero>Romance</genero>
+		<duracao>114</duracao>
+		<ano>1998</ano>
+		<site>http://www.city-of-angels.com</site>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Brad Silberling</direcao>
+		<elenco>Nicolas Cage</elenco>
+		<elenco>Meg Ryan</elenco>
+		<sinopse>Em Los Angeles, uma dedicada cirurgiã (Meg Ryan) fica arrasada quando perde um paciente durante uma operação, no mesmo instante em que um anjo (Nicolas Cage), que estava na sala de cirurgia, começa a se sentir atraído por ela. Em pouco tempo ele fica apaixonado pela médica e resolve ficar visível para ela, a fim de poder encontrá-la frequentemente, o que acaba provocando entre os dois uma atração cada vez maior, apesar dela ter um sério relacionamento com um colega de profissão. O ser celestial não pode sentir calor, nem o vento no rosto, o gosto de uma fruta ou o toque da sua amada, assim ele cogita em deixar de ser um imortal para poder amar e ser amado intensamente.</sinopse>
+	</filme>
+	<filme id="EfeitoColateral">
+		<tituloEN>Collateral Damage</tituloEN>
+		<tituloBR>Efeito Colateral</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>115</duracao>
+		<ano>2002</ano>
+		<site>http://collateraldamage.warnerbros.com</site>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Andrew Davis</direcao>
+		<elenco>Arnold Schwarzenegger</elenco>
+		<elencoApoio>John Leguizamo</elencoApoio>
+		<sinopse>Gordon Brewer (Arnold Schwarzenegger) é um bombeiro que perde sua esposa e filho em um atentado terrorista organizado por Claudio &quot;The Wolf&quot; Perrini (Cliff Curtis). Como as investigações oficiais do governo americano parecem não chegar a lugar algum, Brewer decide então perseguir o próprio &quot;The Wolf&quot;, se envolvendo em um complicado jogo que o leva até a Colômbia.</sinopse>
+	</filme>
+	<filme id="MonteCristo">
+		<tituloEN>The Count of Monte Cristo</tituloEN>
+		<tituloBR>O Conde de Monte Cristo</tituloBR>
+		<genero>Drama</genero>
+		<duracao>131</duracao>
+		<ano>2002</ano>
+		<site>http://bventertainment.go.com/movies/montecristo</site>
+		<distribuicao>Buena Vista International</distribuicao>
+		<direcao>Kevin Reynolds</direcao>
+		<elenco>James Caviezel</elenco>
+		<elencoApoio>Guy Pearce</elencoApoio>
+		<sinopse>Edmond Dantes (James Caviezel) é um jovem ingênuo e honesto que planeja se casar com Mercedes (Dagmara Dominczyk). Entretanto, sua vida desmorona quando Fernand (Guy Pearce), seu melhor amigo que também cobiça Mercedes, lhe prepara uma armadilha que o deixa durante 13 anos aprisionado. Atormentado com tudo o que lhe ocorreu, Edmond cada vez mais esquece seus ensinamentos sobre o certo e o errado para elaborar seu plano de vingança, que pretende pôr em prática assim que conseguir deixar a prisão. Com a ajuda de Abbé (Richard Harris), outro detento, Edmond consegue fugir, transformando-se a partir de então no rico e misterioso Conde de Monte Cristo, infiltrando-se na aristocracia francesa disposto a levar até o fim seu plano de vingança.</sinopse>
+	</filme>
+	<filme id="ChickenRun">
+		<tituloEN>Chicken Run</tituloEN>
+		<tituloBR>A Fuga das Galinhas</tituloBR>
+		<genero>Animação</genero>
+		<duracao/>
+		<ano>2000</ano>
+		<site>http://www.chickenrun.co.uk</site>
+		<distribuicao>DreamWorks Distribution L.L.C. / UIP</distribuicao>
+		<direcao>Peter Lord e Nick Park</direcao>
+		<elenco>Mel Gibson</elenco>
+		<sinopse>Na década de 50, numa fazenda em Yorkshire, a galinha Ginger busca incessantemente um meio de conseguir escapar do fim trágico que seus donos reservaram para ela e seus semelhantes. Após várias tentativas frustradas, surge na granja o galo Rocky, com uma ambiciosa promessa: ensinar como voar às galinhas. Mas o tempo de Ginger e Rocky é curto: os Tweedy, donos da fazenda, compraram uma máquina que faz tortas de galinha, que em breve entrará em operação e irá dizimar toda a população do local.</sinopse>
+	</filme>
+	<filme id="Coyote">
+		<tituloEN>Coyote Ugly</tituloEN>
+		<tituloBR>Coyote Bar</tituloBR>
+		<genero/>
+		<duracao/>
+		<ano/>
+		<site/>
+		<distribuicao/>
+		<direcao/>
+		<elenco/>
+		<sinopse/>
+	</filme>
+	<filme id="Crossroads">
+		<tituloEN>Crossroads</tituloEN>
+		<tituloBR>Amigas para Sempre</tituloBR>
+		<genero/>
+		<duracao/>
+		<ano/>
+		<site/>
+		<distribuicao/>
+		<direcao/>
+		<elenco>Britney Spears</elenco>
+		<sinopse>...</sinopse>
+	</filme>
+	<filme id="RoadPerdition">
+		<tituloEN>Road to Perdition</tituloEN>
+		<tituloBR>Estrada para Perdição</tituloBR>
+		<genero>Drama</genero>
+		<duracao>119</duracao>
+		<ano>2002</ano>
+		<site>http://www.roadtoperdition.com</site>
+		<distribuicao>DreamWorks Distribution LLC / 20th Century Fox Film Corporation</distribuicao>
+		<direcao>Sam Mendes</direcao>
+		<elenco>Tom Hanks</elenco>
+		<elenco>Paul Newman</elenco>
+		<elencoApoio>Jude Law</elencoApoio>
+		<sinopse>Durante a Depressão, mais exatamente no inverno de 1931, Michael Sullivan (Tom Hanks) é um zeloso pai de família, que ama muito sua esposa, Annie Sullivan (Jennifer Jason Leigh), e seus filhos, Michael Sullivan Jr. (Tyler Hoechlin) e Peter Sullivan (Liam Aiken). Porém, ele vive moralmente em conflito, pois trabalha como assassino profissional para um irlandês, John Rooney (Paul Newman), um idoso chefe de quadrilha que criou Sullivan como se fosse seu filho. Michael Jr., o filho mais velho, fica curioso sobre a profissão misteriosa do seu pai, então se esconde no automóvel dele e acaba testemunhando a execução de Finn McGovern (Ciarán Hinds), que foi morto por Connor Rooney (Daniel Craig), o filho biológico de John. Michael vê seu pai e outros capangas ajudarem a terminar o &quot;serviço&quot;, ficando tão apavorado que tenta fugir. Rapidamente seu pai entende que o filho viu tudo, mas Sullivan tentou acalmar Connor, dizendo que seu filho não diria nada. Aparentemente ele teve sucesso, mas Connor é na verdade bem paranóico e instável. Connor acredita que só terá segurança quando Sullivan e toda a sua família estiver morta, logo ele mesmo mata a mulher de Sullivan e Peter, o caçula. Porém Sullivan, que seria morto em outro local, consegue escapar e rapidamente pega Michael e foge. Enfurecido com estas traições, Sullivan decide se vingar, mas antes pretende deixar o filho com parentes em Perdição, uma cidade rural. Quando o perigo eminente passa, ele acaba expondo para Michael os aspectos mais sangrentos de sua profissão, mas logo Harlen Maguire (Jude Law), um assassino profissional, está no seu encalço. Sullivan tenta então atingir os mafiosos, roubando altas quantias que eles têm em bancos, pois pretende forçar as quadrilhas que ofereçam Connor em sacrifício para ele, em troca, terminar com os roubos.</sinopse>
+	</filme>
+	<filme id="OceanEleven">
+		<tituloEN>Ocean&apos;s Eleven</tituloEN>
+		<tituloBR>Onze Homens e um Segredo</tituloBR>
+		<genero>Ação </genero>
+		<duracao>117</duracao>
+		<ano>2001</ano>
+		<site>http://oceans11.warnerbros.com</site>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Steven Soderbergh</direcao>
+		<elenco>George Clooney</elenco>
+		<elenco>Brad Pitt</elenco>
+		<elenco>Julia Roberts</elenco>
+		<elenco>Matt Damon</elenco>
+		<elenco>Andy Garcia</elenco>
+		<sinopse>Danny Ocean (George Clooney) é um homem de ação. Apenas 24 horas após deixar a penitenciária de Nova Jersey ele já está pondo em prática seu mais novo plano: assaltar três cassinos de Las Vegas em apenas uma noite, em meio à realização de uma luta que vale o título mundial dos peso-pesados. Para tanto Ocean reúne uma equipe de 11 especialistas a fim de ajudá-lo em seu plano, seguindo sempre três regras básicas: não ferir ninguém, não roubar alguém que realmente não mereça e seguir o plano como se não tivesse nada a perder.</sinopse>
+	</filme>
+	<filme id="MeetJoeBlack">
+		<tituloEN>Meet Joe Black</tituloEN>
+		<tituloBR>Encontro Marcado</tituloBR>
+		<genero>Romance</genero>
+		<duracao>186</duracao>
+		<ano>1998</ano>
+		<site>http://www.meetjoeblack.com</site>
+		<distribuicao>Universal Pictures / UIP</distribuicao>
+		<direcao>Martin Brest</direcao>
+		<elenco>Brad Pitt</elenco>
+		<elenco>Anthony Hopkins</elenco>
+		<elencoApoio>Claire Forlani</elencoApoio>
+		<sinopse>Em Nova York, uma médica residente (Claire Forlani) conhece por acaso um recém-chegado na cidade (Brad Pitt). Eles se sentem atraídos, mas logo após se despedirem ele morre em um acidente. Em seguida, a própria Morte decide por utilizar o corpo desta vítima e vai falar com um magnata da mídia (Anthony Hopkins), dizendo que está ali para levá-lo mas, como pretende conhecer os hábitos dos humanos, propõe retardar esta partida se o milionário tornar esta &quot;férias&quot; interessantes e instrutivas. Ironicamente, a filha do magnata é a jovem médica que tinha se sentido atraída por um desconhecido no início da história. Seria impossível para ela imaginar que estava diante da Morte, que apenas utilizava naquele momento aquele corpo como invólucro, mas outra coisa inimaginável também acontece: a Morte se apaixona pela filha do milionário.</sinopse>
+	</filme>
+	<filme id="Animatrix">
+		<tituloEN>Animatrix</tituloEN>
+		<tituloBR>Animatrix</tituloBR>
+		<genero/>
+		<duracao/>
+		<ano/>
+		<site/>
+		<distribuicao/>
+		<direcao/>
+		<elenco/>
+		<sinopse/>
+	</filme>
+	<filme id="Schindler">
+		<tituloEN>The Schindler&apos;s List</tituloEN>
+		<tituloBR>A Lista de Schindler</tituloBR>
+		<genero>Drama</genero>
+		<duracao>195</duracao>
+		<ano>1993</ano>
+		<site/>
+		<distribuicao>Universal Pictures / UIP</distribuicao>
+		<direcao>Steven Spielberg</direcao>
+		<elenco>Liam Neeson</elenco>
+		<elencoApoio>Ben Kingsley</elencoApoio>
+		<sinopse>A inusitada história de Oskar Schindler (Liam Neeson), um sujeito oportunista, sedutor, &quot;armador&quot;, simpático, comerciante no mercado negro, mas, acima de tudo, um homem que se relacionava muito bem com o regime nazista, tanto que era membro do próprio Partido Nazista (o que não o impediu de ser preso algumas vezes, mas sempre o libertavam rapidamente, em razão dos seus contatos). No entanto, apesar dos seus defeitos, ele amava o ser humano e assim fez o impossível, a ponto de perder a sua fortuna mas conseguir salvar mais de mil judeus dos campos de concentração.</sinopse>
+	</filme>
+	<filme id="TheCrow">
+		<tituloEN>The Crow</tituloEN>
+		<tituloBR>O Corvo</tituloBR>
+		<genero>Suspense</genero>
+		<duracao>99</duracao>
+		<ano>1994</ano>
+		<site/>
+		<distribuicao>Buena Vista Pictures / Dimension Films / Miramax Films</distribuicao>
+		<direcao>Alex Proyas</direcao>
+		<elenco>Brandon Lee</elenco>
+		<elencoApoio>Ernie Hudson</elencoApoio>
+		<sinopse>Um ano após ter sido assassinado juntamente com sua noiva por uma gangue, Eric Draven (Brandon Lee), um músico de rock, retorna da sepultura com a ajuda de um misterioso corvo, com a intenção de se vingar de seus assassinos.</sinopse>
+	</filme>
+	<filme id="GoodWillHunting">
+		<tituloEN>Good Will Hunting</tituloEN>
+		<tituloBR>Gênio Indomável</tituloBR>
+		<genero>Drama</genero>
+		<duracao>126</duracao>
+		<ano>1997</ano>
+		<site/>
+		<distribuicao>Buena Vista International / Miramax Films</distribuicao>
+		<direcao>Gus Van Sant</direcao>
+		<elenco>Matt Damon</elenco>
+		<elenco>Robin Williams</elenco>
+		<elenco>Ben Affleck</elenco>
+		<sinopse>Em Boston, um jovem de 20 anos (Matt Damon) que já teve algumas passagens pela polícia e é servente de uma universidade, revela-se um gênio em matemática e, por determinação legal, precisa fazer terapia, mas nada funciona, pois ele debocha de todos os analistas, até se identificar com um deles.</sinopse>
+	</filme>
+	<filme id="Infidelidade">
+		<tituloEN>Unfaithful</tituloEN>
+		<tituloBR>Infidelidade</tituloBR>
+		<genero>Thriller</genero>
+		<duracao/>
+		<ano>2002</ano>
+		<site>http://unfaithfulmovie.com</site>
+		<distribuicao>Fox 2000 Pictures</distribuicao>
+		<direcao>Adrian Lyne </direcao>
+		<elenco>Richard Gere</elenco>
+		<elencoApoio>Diane Lane</elencoApoio>
+		<sinopse>Edward (Richard Gere) e Connie Sumner (Diane Lane) formam um casal que vive uma crise em seu casamento. Connie está tendo um caso com Paul Martel (Olivier Martinez), sendo que Edward ainda não sabe que vem sendo traído por sua esposa. Quando descobre, Edward entra em um acesso de fúria e mata o amante de Connie. Este ato faz com que surja entre os dois uma paixão que nunca havia existido antes em seu casamento, fazendo com que se tornem cúmplices no assassinato cometido por Edward.</sinopse>
+	</filme>
+	<filme id="Hulk">
+		<tituloEN>The Hulk</tituloEN>
+		<tituloBR>Hulk</tituloBR>
+		<genero>Aventura </genero>
+		<duracao>135</duracao>
+		<ano>2003</ano>
+		<site>http://www.thehulk.com</site>
+		<distribuicao>Universal Pictures / UIP</distribuicao>
+		<direcao>Ang Lee</direcao>
+		<elenco>Eric Bana</elenco>
+		<elenco>Jennifer Connelly</elenco>
+		<elencoApoio/>
+		<elenco>Nick Nolte </elenco>
+		<sinopse>Bruce Banner (Eric Bana) é um cientista que teve problemas em sua infância: ele foi adotado e passou por uma experiência traumática após a morte de seus pais, a qual não lembra de forma alguma. Juntamente com ele trabalha Betty Ross (Jennifer Connelly), sua grande paixão. Ambos trabalham em um projeto que envolve a reconstituição de tecidos através da radiação gama, um projeto o qual o Exército está bastante interessado. Ao consertar o gammasphere, aparelho usado para aplicar a radiação gama em animais, um dos cientistas do projeto o aciona acidentalmente. Em uma tentativa desesperada de salvar o amigo, Banner se atira defronte o gammasphere e absorve a radiação gama lançada. Inexplicavelmente o acidente não o mata, fazendo com que permaneça durante algum tempo no hospital sob observação. É quando a reaparição de seu pai biológico, o qual considerava morto, revela segredos sobre o passado de Bruce Banner o qual nem ele mesmo conhecia, ao mesmo tempo em que precisa lidar com estranhas modificações em seu corpo a cada vez que fica com raiva.</sinopse>
+	</filme>
+	<filme id="Mile8">
+		<tituloEN>8 Mile</tituloEN>
+		<tituloBR>8 Mile - Rua das Ilusões</tituloBR>
+		<genero>Drama</genero>
+		<duracao>111</duracao>
+		<ano>2002</ano>
+		<site>http://www.8-mile.com</site>
+		<distribuicao>Universal Pictures / UIP</distribuicao>
+		<direcao>Curtis Hanson</direcao>
+		<elenco>Kim Basinger</elenco>
+		<elencoApoio>Eminem</elencoApoio>
+		<sinopse>Em Detroit vive Jimmy (Emimem), um jovem em plena crise de identidade e que procura um sentido para sua vida. Até que, para extravasar sua raiva e angústia, ele decide se envolver no mundo do hip hop.</sinopse>
+	</filme>
+	<filme id="Imperdoaveis">
+		<tituloEN>Unforgiven</tituloEN>
+		<tituloBR>Os Imperdoáveis</tituloBR>
+		<genero>Faroeste</genero>
+		<duracao>131</duracao>
+		<ano>1992</ano>
+		<site/>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Clint Eastwood</direcao>
+		<elenco>Clint Eastwood</elenco>
+		<elenco>Gene Hackman</elenco>
+		<elenco>Morgan Freeman</elenco>
+		<sinopse>Bill Munny (Clint Eastwood), um pistoleiro aposentado, volta à ativa quando lhe oferecem 1000 dólares para matar os homens que cortaram o rosto de uma prostituta. Neste serviço dois outros pistoleiros o acompanham e eles precisam se confrontar com um inglês (Richard Harris), que também deseja a recompensa e um xerife (Gene Hackman), que não deseja tumulto em sua cidade.</sinopse>
+	</filme>
+	<filme id="ConanBarbaro">
+		<tituloEN>Conan the Barbarian</tituloEN>
+		<tituloBR>Conan, o Bárbaro</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>129</duracao>
+		<ano>1982</ano>
+		<site/>
+		<distribuicao>Universal Pictures</distribuicao>
+		<direcao>John Milius</direcao>
+		<elenco>Arnold Schwarzenegger</elenco>
+		<elencoApoio>James Earl Jones</elencoApoio>
+		<sinopse>Há milhares de anos Thulsa Doom (James Earl Jones), um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan (Arnold Schwarzenegger), um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. Os anos passam e ele desenvolve uma enorme força física, o que faz Conan se tornar gladiador. Ele ainda se mantém determinado a vingar a morte dos pais e quando é libertado tenta alcançar seu objetivo. Conan descobre que Thulsa Doom lidera o misterioso culto da serpente e, tentando se aproximar do feiticeiro, faz amizade com dois ladrões, Valeria (Sandahl Bergman) e Subotai (Gerry Lopez). Ao trio é prometida uma vultosa recompensa pelo rei Osric (Max von Sydow), que quer que o trio de guerreiros resgate sua filha, que se tornou uma seguidora de Thulsa Doom.</sinopse>
+	</filme>
+	<filme id="ConanDestruidor">
+		<tituloEN>Conan the Destroyer</tituloEN>
+		<tituloBR>Conan, o Destruidor</tituloBR>
+		<genero>Aventura</genero>
+		<duracao>101</duracao>
+		<ano>1984</ano>
+		<site/>
+		<distribuicao>Universal Pictures</distribuicao>
+		<direcao>Richard Fleischer</direcao>
+		<elenco>Arnold Schwarzenegger</elenco>
+		<elencoApoio>Grace Jones</elencoApoio>
+		<sinopse>Para que a rainha Taramis (Sarah Douglas) cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos terá de cumprir uma perigosa missão da qual faz parte a princesa Jehnna (Olivia d&apos;Abo). Mas o que ele desconheceé que Taramis ordenou que, após a missão cumprida, Conan deve ser morto e a virginal princesa deve voltar para então ser sacrificada ao deus demônio Dagoth.</sinopse>
+	</filme>
+	<filme id="TodoPoderoso">
+		<tituloEN>Bruce Almighty</tituloEN>
+		<tituloBR>Todo Poderoso </tituloBR>
+		<genero>Comédia</genero>
+		<duracao>94</duracao>
+		<ano>2003</ano>
+		<site>www.brucealmighty.com</site>
+		<distribuicao>Universal Pictures / Buena Vista International / DreamWorks Distribution LLC</distribuicao>
+		<direcao>Tom Shadyac</direcao>
+		<elenco>Jim Carrey</elenco>
+		<elenco>Jennifer Aniston</elenco>
+		<elenco>Morgan Freeman</elenco>
+		<elencoApoio>Philip Baker Hall</elencoApoio>
+		<sinopse>Bruce Nolan (Jim Carrey) é um jornalista que tem um bom emprego na TV e uma bela namorada, Grace (Jennifer Aniston). Num acesso de fúria ele começa a xingar e questionar Deus e seu modo de fazer tudo funcionar, o que faz com que ele próprio (Morgan Freeman) resolva descer à Terra como um homem comum e lhe entregar o poder de comandar o planeta da forma como desejar durante um dia. É quando Bruce percebe o quão difícil é ser Deus e tomar conta de tudo o que ocorre no planeta.</sinopse>
+	</filme>
+	<filme id="EncontrosDesencontros">
+		<tituloEN>Lost in Translation</tituloEN>
+		<tituloBR>Encontros e Desencontros</tituloBR>
+		<genero>Drama</genero>
+		<duracao>105</duracao>
+		<ano>2003</ano>
+		<site>http://www.lost-in-translation.com</site>
+		<distribuicao>Focus Features</distribuicao>
+		<direcao>Sofia Coppola</direcao>
+		<elenco>Scarlett Johansson</elenco>
+		<elenco>Bill Murray</elenco>
+		<elenco>Giovanni Ribisi</elenco>
+		<elencoApoio>Fumihiro Hayashi</elencoApoio>
+		<sinopse>Bob Harris (Bill Murray) é uma estrela de cinema, que está em Tóquio para fazer um comercial de uísque. Charlotte (Scarlett Johansson), por sua vez, está na cidade acompanhando seu marido, um fotógrafo workaholic (Giovanni Ribisi) que a deixa sozinha o tempo todo. Sofrendo com o horário, Bob e Charlotte não conseguem dormir. Eles se encontram, por acaso, no bar de um hotel de luxo, e em pouco tempo tornam-se grandes amigos. Resolvem então partir pela cidade juntos. A eles junta-se uma jovem atriz chamada Kelly (Anna Faris), com quem vão viver algumas aventuras pela cidade de Tóquio.</sinopse>
+	</filme>
+	<filme id="TheDevilsAdvocate">
+		<tituloEN>The Devil&apos;s Advocate</tituloEN>
+		<tituloBR>O Advogado do Diabo</tituloBR>
+		<genero>Suspense</genero>
+		<duracao>145</duracao>
+		<ano>1997</ano>
+		<site>http://www.wbmovies.com/devils</site>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Taylor Hackford</direcao>
+		<elenco>Al Pacino</elenco>
+		<elenco>Keanu Reeves</elenco>
+		<elenco>Charlize Theron</elenco>
+		<elencoApoio>Jeffrey Jones</elencoApoio>
+		<sinopse>Kevin Lomax (Keanu Reeves), advogado de uma pequena cidade da Flórida que nunca perdeu um caso, é contratado John Milton (Al Pacino), dono da maior firma de advocacia de Nova York. Kevin recebe um alto salário e várias mordomias, apesar da desaprovação de Alice Lomax (Judith Ivey), sua mãe e uma fervorosa religiosa, que compara Nova York a Babilônia. No início tudo parece correr bem, mas logo Mary Ann (Charlize Theron), a esposa do advogado, sente saudades de sua antiga casa e começa a testemunhar aparições demoníacas. No entanto, Kevin está empenhado em defender um cliente acusado de triplo assassinato e cada vez dá menos atenção à sua mulher, enquanto que seu misterioso chefe parece sempre saber como contornar cada problema e tudo que perturba o jovem advogado.</sinopse>
+	</filme>
+	<filme id="MonstersInc">
+		<tituloEN>Monsters Inc.</tituloEN>
+		<tituloBR>Monstros S.A.</tituloBR>
+		<genero>Animação</genero>
+		<duracao/>
+		<ano>2001</ano>
+		<site>http://disney.go.com/DisneyPictures/monstersinc</site>
+		<distribuicao>Walt Disney Productions / Pixar Animation Studios</distribuicao>
+		<direcao>Peter Docter e David Silverman</direcao>
+		<elenco>Billy Crystal</elenco>
+		<elencoApoio>John Goodman</elencoApoio>
+		<sinopse>Monstros S.A. é a maior fábrica de sustos existente. Localizada em uma dimensão paralela, a fábrica constrói portais que levam os monstros para os quartos das crianças, onde eles poderão lhes dar sustos e gerar a fonte de energia necessária para a sobrevivência da fábrica. Entre todos os monstros que lá trabalham o mais assustador de todos é James P. Sullivan (John Goodman), um grande e intimidador monstro de pêlo azul e chifres, que é chamado de Sully por seus amigos. Seu assistente é Mike Wzowski (Billy Crystal), um pequeno ser de um olho só com quem tem por missão assustar as crianças, que são consideradas tóxicas pelos monstros e cujo contato com eles seria catastrófico para seu mundo. Porém, ao visitar o mundo dos humanos a trabalho, Mike e Sully conhecem a garota Boo (Mary Gibbs), que acaba sem querer indo parar no mundo dos monstros e provoca a expulsão de ambos para o mundo real.</sinopse>
+	</filme>
+	<filme id="Shrek">
+		<tituloEN>Shrek</tituloEN>
+		<tituloBR>Shrek</tituloBR>
+		<genero>Animação</genero>
+		<duracao>100</duracao>
+		<ano>2001</ano>
+		<site>http://www.shrek.com</site>
+		<distribuicao>DreamWorks Distribution L.L.C. / UIP</distribuicao>
+		<direcao>Andrew Adamson e Vicky Jenson</direcao>
+		<elenco>Mike Myers</elenco>
+		<elenco>Eddie Murphy</elenco>
+		<elencoApoio>John Lithgow</elencoApoio>
+		<elenco>Cameron Diaz</elenco>
+		<sinopse>Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro (Eddie Murphy) resgatarem uma bela princesa (Cameron Diaz), que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.</sinopse>
+	</filme>
+	<filme id="LegallyBonde2">
+		<tituloEN>Legally Bonde 2: Red, White &amp; Blonde</tituloEN>
+		<tituloBR>Legalmente Loira 2</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>94</duracao>
+		<ano>2003</ano>
+		<site>http://www.legallyblonde2.com</site>
+		<distribuicao>Metro-Goldwyn-Mayer / 20th Century Fox</distribuicao>
+		<direcao>Charles Herman-Wurmfeld</direcao>
+		<elenco>Reese Whiterspoon</elenco>
+		<elenco>Sally Field</elenco>
+		<elencoApoio>Regina King</elencoApoio>
+		<sinopse>Após receber seu diploma de Direito na Universidade de Harvard, Elle Woods (Reese Whiterspoon) passa a trabalhar em um grande escritório, dividindo seu tempo entre o trabalho e os preparativos de seu casamento com Emmett Richmond (Luke Wilson). Após tomar conhecimento de que cães da mesma raça que seu adorado Bruiser estão sendo usados para testar cosméticos, Elle decide defender seus direitos. Como uma das empresas que realiza tais testes é cliente do escritório em que Elle trabalha, ela acaba sendo demitida. Decidida a levar adiante sua luta, Elle resolve por ir até Washington e convencer políticos de que sua causa é justa.</sinopse>
+	</filme>
+	<filme id="MaisVelozesMaisFuriosos">
+		<tituloEN>2 Fast 2 Furious</tituloEN>
+		<tituloBR>Mais Velozes Mais Furiosos</tituloBR>
+		<genero>Ação</genero>
+		<duracao>100</duracao>
+		<ano>2003</ano>
+		<site>http://www.thefastandthefurious.com</site>
+		<distribuicao>Universal Pictures / UIP</distribuicao>
+		<direcao>John Singleton</direcao>
+		<elenco>Paul Walker</elenco>
+		<elenco>Eva Mendes</elenco>
+		<elencoApoio>Tyrese</elencoApoio>
+		<sinopse>Após deixar a polícia, Brian O&apos;Conner (Paul Walker) é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone (Cole Hauser), o chefe do tráfico local. Para tanto ele recebe a ajuda de seu ex-colega Roman Pearce (Tyrese) e da agente secreta Monica Clemente (Eva Mendes).</sinopse>
+	</filme>
+	<filme id="WhatWomenWant">
+		<tituloEN>What Women Want</tituloEN>
+		<tituloBR>Do Que as Mulheres Gostam</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>120</duracao>
+		<ano>2000</ano>
+		<site>http://www.whatwomenwantmovie.com</site>
+		<distribuicao>Paramount Pictures</distribuicao>
+		<direcao>Nancy Meyers</direcao>
+		<elenco>Mel Gibson</elenco>
+		<elenco>Helen Hunt</elenco>
+		<elencoApoio>Marisa Tomei</elencoApoio>
+		<sinopse>Após sobreviver a um grave acidente, Nick Marshall (Mel Gibson), um executivo machista que trabalha em Chicago, misteriosamente passa a ter o dom de ler os pensamentos das mulheres. Inicialmente ele usa este novo poder para agradar sua chefe, Darcy Maguire (Helen Hunt), mas aos poucos começa a conhecer melhor a intimidade das mulheres e começa a mudar seu estilo de vida.</sinopse>
+	</filme>
+	<filme id="CruzeiroLoucas">
+		<tituloEN>Boat Trip</tituloEN>
+		<tituloBR>Cruzeiro das Loucas</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>93</duracao>
+		<ano>2003</ano>
+		<site>http://www.boattripthemovie.com</site>
+		<distribuicao>Artisan Entertainment / Imagem Filmes</distribuicao>
+		<direcao>Mort Nathan</direcao>
+		<elenco>Cuba Gooding Jr.</elenco>
+		<elencoApoio>Horatio Sanz</elencoApoio>
+		<sinopse>Após romper com Felicia (Vivica A. Fox), sua noiva, Jerry (Cuba Gooding Jr.) entra em depressão. Tentando animar o amigo, Nick (Horatio Sanz) sugere que ambos façam um cruzeiro para solteiros, na intenção de conhecer novas mulheres. Porém, quando ambos já estão em alto mar percebem que algo está errado: ao invés de mulheres lindas e disponíveis o navio está repleto de homens, sendo que um deles, Lloyd (Roger Moore), está encantado com Nick.</sinopse>
+	</filme>
+	<filme id="GarotaVeneno">
+		<tituloEN>The Hot Chick</tituloEN>
+		<tituloBR>Garota Veneno </tituloBR>
+		<genero>Comédia</genero>
+		<duracao>101</duracao>
+		<ano>2002</ano>
+		<site>http://www.areyouhot.com</site>
+		<distribuicao>Touchstone Pictures / Buena Vista International</distribuicao>
+		<direcao>Tom Brady</direcao>
+		<elenco>Rob Schneider</elenco>
+		<elencoApoio>Rachel McAdams</elencoApoio>
+		<sinopse>Jessica (Rachel McAdams) é uma garota extremamente popular, bonita e também cruel, que se acha superior a todas as pessoas com as quais convive. Sua vida muda drasticamente quando, repentinamente, acorda no corpo de Clive (Rob Schneider), um frentista que tem em torno de 30 anos e é considerado por todos como sendo um grande perdedor. Desesperada para retornar à antiga forma, agora ocupada por Clive, ambos passam por estranhas situações no novo visual que agora possuem.</sinopse>
+	</filme>
+	<filme id="AnalyseThat">
+		<tituloEN>Anayse That</tituloEN>
+		<tituloBR>A Máfia Volta ao Divã</tituloBR>
+		<genero>Comédia</genero>
+		<duracao>95</duracao>
+		<ano>2002</ano>
+		<site>http://analyzethatmovie.warnerbros.com</site>
+		<distribuicao>Warner Bros.</distribuicao>
+		<direcao>Harold Ramis</direcao>
+		<elenco>Robert De Niro</elenco>
+		<elenco>Billy Crystal</elenco>
+		<elenco>Lisa Kudrow</elenco>
+		<elencoApoio>Joe Viterelli</elencoApoio>
+		<sinopse>Paul Vitti (Robert De Niro) está preso, mas logo será solto e precisará dos conselhos do psiquiatra Ben Sobel (Billy Crystal) para se readaptar à vida fora da cadeia. Ao reencontrar Sobel, Vitti logo percebe que ele está com problemas para lidar com sua nova família, após se casar com Laura (Lisa Kudrow). É quando o mafioso decide usar sua experiência de anos para ajudar o amigo analista.</sinopse>
+	</filme>
+</filmes>

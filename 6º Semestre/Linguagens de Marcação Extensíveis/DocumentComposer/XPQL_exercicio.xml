@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<new-doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="composer.xsd">
+	<target>resultado</target>
+	<part>
+		<source>agenda.xml</source>
+		<container>Entrada555</container>
+		<query-set>
+			<query>
+				<qexp>//entrada[starts-with(telefone,'555')]</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>poema.xml</source>
+		<container>VersoNãoTemNome</container>
+		<query-set>
+			<query>
+				<qexp>//verso[not(nome)]</qexp>
+			</query>
+		</query-set>
+	</part>
+</new-doc>

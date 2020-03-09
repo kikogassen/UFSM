@@ -1,0 +1,29 @@
+a) Quais são os códigos dos slides que possuem imagens?
+	//slide//imagem/parent::corpo/parent::slide/@codigo
+
+b) Quais são os títulos dos slides que apresentam apenas texto em seu conteúdo?
+	//slide//descendant-or-self::texto/../../@titulo
+
+c) Quantas listas do tipo normal existem no documento?
+	count(//lista[@tipo = 'normal'])
+
+d) Quantos slides possuem listas do tipo normal?
+	count(//slide//lista[@tipo = 'normal']//ancestor-or-self::slide)
+
+e) Em quais slides (aponte seus códigos) existem listas dentro de outras listas?
+	//slide//lista//lista/ancestor-or-self::slide/@codigo
+
+f) Quais são os títulos dos slides que possuem listas do tipo normal.
+	//lista[@tipo = 'normal']//ancestor-or-self::slide//@titulo
+
+g) Quais são as figuras referenciadas no documento.
+	//figura
+
+h) Quais são os códigos dos slides que possuem o elemento legenda.
+	//slide//legenda/ancestor-or-self::slide/@codigo
+
+i) Quais são os títulos dos slides que possuem lista e figura em seu corpo.
+	//slide[descendant::lista and descendant::figura]/@titulo
+
+j) Quais são os códigos dos slides que contenham apenas uma tabela ou uma figura.
+	//slide[count(descendant::tabela) = 1 or count(descendant::figura) = 1]/@codigo

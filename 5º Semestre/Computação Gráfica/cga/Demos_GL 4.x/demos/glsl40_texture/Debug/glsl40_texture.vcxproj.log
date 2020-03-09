@@ -1,0 +1,86 @@
+﻿  glslprogram.cpp
+  GLUtils.cpp
+  TextureManager.cpp
+  main.cpp
+..\..\utils\GLUtils.cpp(10): warning C4100: 'param': unreferenced formal parameter
+..\..\utils\GLUtils.cpp(10): warning C4100: 'length': unreferenced formal parameter
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file ..\..\utils\glslprogram.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file ..\..\utils\glslprogram.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file src\main.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file src\main.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\main.cpp)
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\include\GLFW/glfw3.h(85): note: see previous definition of 'APIENTRY' (compiling source file src\main.cpp)
+  Plane.cpp
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file ..\..\utils\TextureManager.cpp)
+src\main.cpp(76): warning C4100: 'error': unreferenced formal parameter
+src\main.cpp(82): warning C4459: declaration of 'window' hides global declaration
+  src\main.cpp(31): note: see declaration of 'window'
+src\main.cpp(82): warning C4100: 'mods': unreferenced formal parameter
+src\main.cpp(82): warning C4100: 'scancode': unreferenced formal parameter
+src\main.cpp(148): warning C4316: 'Plane': object allocated on the heap may not be aligned 16
+..\..\utils\TextureManager.cpp(182): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\utils\TextureManager.cpp(183): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\utils\TextureManager.cpp(117): warning C4100: 'border': unreferenced formal parameter
+..\..\utils\TextureManager.cpp(117): warning C4100: 'level': unreferenced formal parameter
+..\..\utils\TextureManager.cpp(117): warning C4100: 'internal_format': unreferenced formal parameter
+..\..\utils\TextureManager.cpp(117): warning C4100: 'image_format': unreferenced formal parameter
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(242): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled (compiling source file src\Plane.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(64): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(264): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled (compiling source file src\Plane.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(65): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(118): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+  d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(364): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled (compiling source file src\Plane.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(119): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+d:\ufsm\disciplinas\computacao grafica avancada\demos\demos_gl 4.x\include\glm\detail/type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\Plane.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(56): warning C4100: 'other': unreferenced formal parameter (compiling source file src\Plane.cpp)
+D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\utils\glslprogram.h(57): warning C4100: 'other': unreferenced formal parameter (compiling source file src\Plane.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\Plane.cpp)
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\include\GLFW\glfw3.h(85): note: see previous definition of 'APIENTRY' (compiling source file src\Plane.cpp)
+src\Plane.cpp(52): warning C4100: 'deltaTime': unreferenced formal parameter
+src\Plane.cpp(94): warning C4100: 'y': unreferenced formal parameter
+src\Plane.cpp(94): warning C4100: 'x': unreferenced formal parameter
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  glsl40_texture.vcxproj.vcxproj -> D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\bin\glsl40_texture.exe
+  glsl40_texture.vcxproj.vcxproj -> D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\bin\glsl40_texture.pdb (Partial PDB)
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_texture\shader\glsl40_texture.frag
+  D:\ufsm\Disciplinas\Computacao Grafica Avancada\Demos\Demos_GL 4.x\demos\glsl40_texture\shader\glsl40_texture.vert
+  2 File(s) copied

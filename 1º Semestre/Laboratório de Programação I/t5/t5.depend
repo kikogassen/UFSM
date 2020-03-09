@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1530233535 source:c:\users\kikog\desktop\ufsm\1º semestre\laboratório de programação i\t5\t5-fhgassen.c
+	"tela5.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1530233223 c:\users\kikog\desktop\ufsm\1º semestre\laboratório de programação i\t5\tela5.h
+	<stdbool.h>
+
+1530233227 source:c:\users\kikog\desktop\ufsm\1º semestre\laboratório de programação i\t5\tela5.c
+	"tela5.h"
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+

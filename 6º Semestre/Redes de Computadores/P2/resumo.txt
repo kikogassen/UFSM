@@ -1,0 +1,17 @@
+1. TLD = países, genéricos e inversos
+Autoritativos = Mantido pelas orgs, facebook, google
+
+2. broadcast = pra todos
+multicast = pra um grupo
+anycast = um pro primeiro que responder
+unicast = um pra um
+
+3. IMAP e POP3 = mail server destino to pc
+
+4. minifying = reduzir codigos
+multiplexing = uma requisição pra todos arquivos
+
+5. 
+
+6. FCAPS = fault = falha
+config = 

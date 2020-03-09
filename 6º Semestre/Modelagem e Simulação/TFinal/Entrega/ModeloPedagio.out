@@ -1,0 +1,69 @@
+
+                                      ARENA Simulation Results
+                                     Eduardo - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: ModeloPedagio                                             Data da execução :12/ 5/2019
+Analista: Eduardo e Frederico                                      Data de revisão do modelo:12/ 5/2019
+
+Replicação terminada no tempo de      : 24.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .01526     4.1679E-04 .00595     .04567       2843    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       2843    
+Entity 1.WaitTime                           .12512     (Corr)     .00000     .54838       2843    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000       2843    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       2843    
+Entity 1.TotalTime                          .14038     (Corr)     .00605     .57990       2843    
+Levantamento da catraca.Queue.WaitingTime   .00000     .00000     .00000     .00000       2843    
+Realização do atendimento.Queue.WaitingTim  .11919     (Corr)     .00000     .50368       2844    
+Tempo de fila.Queue.WaitingTime             .01982     .00481     .00000     .13283        889    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                17.207     (Corr)     .00000     65.000     54.000    
+Fila de carros.NumberBusy                   .71047     .05171     .00000     1.0000     1.0000    
+Fila de carros.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Fila de carros.Utilization                  .71047     .05171     .00000     1.0000     1.0000    
+Catraca.NumberBusy                          .13162     .00205     .00000     1.0000     .00000    
+Catraca.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Catraca.Utilization                         .13162     .00205     .00000     1.0000     .00000    
+Funcionario 2.NumberBusy                    .98081     (Insuf)    .00000     1.0000     1.0000    
+Funcionario 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Funcionario 2.Utilization                   .98081     (Insuf)    .00000     1.0000     1.0000    
+Funcionario 1.NumberBusy                    .98081     (Insuf)    .00000     1.0000     1.0000    
+Funcionario 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Funcionario 1.Utilization                   .98081     (Insuf)    .00000     1.0000     1.0000    
+Levantamento da catraca.Queue.NumberInQueu  .00000     (Insuf)    .00000     .00000     .00000    
+Realização do atendimento.Queue.NumberInQu  14.649     (Corr)     .00000     62.000     50.000    
+Tempo de fila.Queue.NumberInQueue           .73541     .19271     .00000     7.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           2897.0    
+Entity 1.NumberOut                          2843.0    
+Fila de carros.NumberSeized                 889.00    
+Fila de carros.ScheduledUtilization         .71047    
+Catraca.NumberSeized                        2843.0    
+Catraca.ScheduledUtilization                .13162    
+Funcionario 2.NumberSeized                  2844.0    
+Funcionario 2.ScheduledUtilization          .98081    
+Funcionario 1.NumberSeized                  2844.0    
+Funcionario 1.ScheduledUtilization          .98081    
+System.NumberOut                            2843.0    
+
+
+Tempo executando a simulação: 0.10 minutos.
+Simulação completada.

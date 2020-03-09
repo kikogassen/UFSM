@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ofertas>
+	<disciplinas>
+		<disciplina cod="CC06" semestre="2">
+			<nome> Algoritmos e Estruturas de Dados I</nome>
+			<ementa> Esta disciplina tem como objetivo...</ementa>
+			<professor> Zé Maria</professor>
+		</disciplina>
+		<disciplina cod="CC06" semestre="2">
+			<nome> Algoritmos e Estruturas de Dados I</nome>
+			<ementa> Esta disciplina tem como objetivo...</ementa>
+			<professor> Fernando</professor>
+		</disciplina>
+		<disciplina cod="CC08" semestre="2">
+			<nome> Conceitos de Linguagens de Programacao</nome>
+			<ementa> Esta disciplina tem como objetivo...</ementa>
+			<professor>Bernadette</professor>
+		</disciplina>
+		<disciplina cod="CC10" semestre="4">
+			<nome> Banco de Dados I</nome>
+			<ementa> Esta disciplina tem como objetivo...</ementa>
+			<professor>Bernadette</professor>
+			<professor> Vânia</professor>
+		</disciplina>
+		<disciplina cod="CC12" semestre="5">
+			<nome> Tópicos Avançados de Banco de Dados </nome>
+			<ementa> Esta disciplina tem como objetivo...</ementa>
+			<professor> Vania</professor>
+		</disciplina>
+		<disciplina cod="CC12" semestre="4">
+			<nome> Redes de Computadores I </nome>
+			<ementa/>
+			<professor> Miguel </professor>
+		</disciplina>
+	</disciplinas>
+</ofertas>

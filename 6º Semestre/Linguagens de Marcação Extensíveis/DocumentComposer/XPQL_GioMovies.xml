@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<new-doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="composer.xsd">
+	<target>GioMovies</target>
+	<part>
+		<source>GioMovies.xml</source>
+		<container>Filmes1998</container>
+		<query-set>
+			<query>
+				<qexp>//filme[ano='1998']</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>GioMovies.xml</source>
+		<container>Duracao120-140</container>
+		<query-set>
+			<query>
+				<qexp>//filme[duracao&gt;119 and duracao&lt;141]/tituloBR</qexp>
+			</query>
+		</query-set>
+	</part>
+</new-doc>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>REDE DE COMPUTADORES</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <section>
+            <div id="box">
+                <form action="backend.php" method="post">
+                    <div id="checkBoxesL2">
+                        <h3>L2:</h3>
+                        <input id="checkBox1" type="checkbox" name="l2[]" value="arp">
+                        <span class="checkmark"></span>
+                        <h4>ARP</h4>
+                        <input id="checkBox2" type="checkbox" name="l2[]" value="ipv4">
+                        <span class="checkmark"></span>
+                        <h4>IPV4</h4>
+                        <input id="checkBox3" type="checkbox" name="l2[]" value="ipv6">
+                        <span class="checkmark"></span>
+                        <h4>IPV6</h4>
+                    </div>
+                    <br>
+                    <div id="checkBoxesL3">
+                        <h3>L3:</h3>
+                        <input id="checkBox4" type="checkbox" name="l3[]" value="icmp">
+                        <span class="checkmark"></span>
+                        <h4>ICMP</h4>
+                        <input id="checkBox5" type="checkbox" name="l3[]" value="tcp">
+                        <span class="checkmark"></span>
+                        <h4>TCP</h4>
+                    </div>
+                    <!-- <input type="text" name="" value=""> -->
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+        </section>
+    </body>
+</html>

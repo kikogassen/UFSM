@@ -1,0 +1,48 @@
+Método Iterativo de Gauss-Jacobi
+
+Entradas:
+	matriz A
+	vetor b
+	nmax
+	erro
+	- convergência (?)
+	- critério de parada
+
+Saída: 
+	- solução aproximada
+	- nmax é atingido
+	- convergência não é verificada
+
+Critério de parada:
+	erro = ||x_3 - x_2||/||x_3||
+
+	||x||_2 = norma normal
+	||x||_1 = |x1| + |x2| + ... + |xn|
+	||x||_inf = norm(x, inf) = maximo em modulo de cada componente do vetor
+
+
+Convergência do Método Gauss-Jacobi:
+
+X_(k+1) = Cx_k + g
+
+Supondo X solução do problema:
+X_(k+1)-X -> 0
+
+
+Se ||C||<1 então o método converge
+
+Entradas:
+	A
+	b
+	nmax
+	tol
+	Construção C
+	construção g
+	calcular ||C||
+	se ||C||>1 então
+		escreva("Não há garantias de convergência")
+	fimse
+	Entre com o vetor X(n)
+	enquanto it<nmax e erro>tol
+		Método de Gauss-Jacobi
+	fimenquanto

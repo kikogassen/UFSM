@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<resultado>
+   <Entrada555>
+      <entrada id="e1" tipo="pessoa">
+		       <nome>Giovani Rubert Librelotto</nome>
+		       <email>giovani@unifra.br</email>
+		       <telefone>555-1234</telefone>
+	     </entrada>
+      <entrada id="e2" tipo="pessoa">
+			      <nome>Marcos Cassal</nome>
+			      <email>cassal@unifra.br</email>
+			      <telefone>555-1235</telefone>
+		    </entrada>
+      <entrada id="e3" tipo="pessoa">
+			      <nome>Ana Paula Canal</nome>
+			      <email>apc@unifra.br</email>
+			      <telefone>555-1236</telefone>
+		    </entrada>
+      <entrada id="e4" tipo="empresa">
+		       <nome>Lavandaria Tudo Branco</nome>
+		       <telefone>555-1212</telefone>
+	     </entrada>
+      <entrada id="e5" tipo="pessoa">
+		       <nome>José Alves de Castro</nome>
+		       <telefone>555-1231</telefone>
+	     </entrada>
+      <entrada id="e6" tipo="pessoa">
+		       <nome>Giordano Librelotto</nome>
+		       <telefone>555-1313</telefone>
+	     </entrada>
+      <entrada id="e7">
+			      <nome>Diógenes Librelotto</nome>
+			      <telefone>555-1414</telefone>
+		    </entrada>
+      <entrada id="e8">
+			      <nome>Bianca Librelotto</nome>
+			      <telefone>555-1515</telefone>
+		    </entrada>
+   </Entrada555>
+   <VersoNãoTemNome>
+      <verso>embora não o sintas, que tu escondes</verso>
+      <verso>a grande dor da minha morte. Irás de</verso>
+      <verso>que eu nada que tu digas acredito),</verso>
+      <verso>contar áquele pobre rapazito</verso>
+      <verso>que me deu horas tão felizes,</verso>
+      <verso>em bora não o saibas, que morri...</verso>
+      <verso>Mesmo ele, a quem eu tanto julguei amar,</verso>
+      <verso>nada se importará... Depois vai dar </verso>
+      <verso>que acreditava que eu seria grande...</verso>
+      <verso>Raios partam a vida e quem lá ande!</verso>
+   </VersoNãoTemNome>
+</resultado>

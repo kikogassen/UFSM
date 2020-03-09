@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<new-doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="composer.xsd">
+	<target>agenda_result</target>
+	<part>
+		<source>agenda.xml</source>
+		<container>entrada_fone_253</container>
+		<query-set>
+			<query>
+				<qexp>//entrada[starts-with(telefone,'555')]</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>agenda.xml</source>
+		<container>mail_unifra</container>
+		<query-set>
+			<query>
+				<qexp>//entrada[contains(email,'unifra.br')]</qexp>
+			</query>
+		</query-set>
+	</part>
+	<part>
+		<source>agenda.xml</source>
+		<container>entrada_referencias</container>
+		<query-set>
+			<query>
+				<qexp>//entrada[@id = //ref/@entref]/nome</qexp>
+			</query>
+		</query-set>
+	</part>
+</new-doc>

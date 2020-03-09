@@ -1,0 +1,62 @@
+Fonte -> Codificador de fonte -> Codificador de canal ---------> Modulador
+                                                                    ||
+                                                                    \/
+                                                                   Meio
+                                                                    ||
+                                                                    \/
+Destino <- Decodificador de fonte <- Decodificador de canal <- Demodulador
+
+FLUXO DE DADOS:
+- Simplex
+- Half-duplex
+- Full-duplex
+
+REDES: é um conjunto de dispositivos (nós) conectados por links (enlaces) de comunicação
+Desempenho, Confiabilidade e Segurança
+
+TIPOS DE CONEXÃO:
+- Point-to-point (único receptor)
+- Multipoint (múltiplos receptores)
+
+TOPOLOGIAS FÍSICAS:
+- Topologia de malha: uma ligação entre cada par de estação
+- Topologia estrela: estações ligadas a um hub
+- Topologia de barramento: uma espécie de cabo principal com cada estação ligada nele
+- Topologia de anel: topologia em barramento com o início e fim ligados
+- Topologia híbrida: topologia estrela + topologia de barramento
+
+LANs (Local Area Networks): distância curta, alta velocidade
+MANs (Metropolitan Area Networks): dentro de uma cidade, por exemplo
+WANs (Wide Area Networks): mundo inteiro
+
+TIPOS DE SERVIDORES:
+- Arquivos
+- Banco de dados
+- Impressão
+- Comunicação
+- Gerenciamento
+- ...
+
+PROTOCOLOS:
+"Toda comunicação na Internet é governada por protocolos"
+
+Existem mensagens de controle análogas ao sistema postal
+
+- Protocolos hierárquicos: cada informação de controle nova é anexada ou traduzida em uma camada diferente
+
+MODELO DE REFERÊNCIA OSI (Open Systems Interconnection):
+- Aplicação: software que mostra os dados
+- Apresentação: traduz os dados pra aplicação receber, ou traduz os dados da aplicação pra camada inferior
+- Sessão: sincronização e controle do diálogo entre os hosts
+- Transporte: faz o caminho roteador-placa de rede
+- Rede: criação das rotas, endereçamento
+- Enlace: controle de erros, fluxo
+- Físico: manipulação das características físicas para acessar o meio físico
+
+PROTOCOLO TCP/IP
+- Aplicação: software
+- Transporte: entre pc e modem
+- Internet: do modem pro mundo
+- Host-rede: controle de fluxo, etc, e meio físico
+
+SINAIS ANALÓGICOS VS DINAIS DIGITAIS

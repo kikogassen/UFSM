@@ -1,0 +1,86 @@
+É só executar o joca.sh.
+
+
+#professornapraçaénossa:
+--> dia_apr = 2 //Teremos 2 aulas para as apresentações (19 e 21). 
+--> if(!texto){!apresentacao} // O texto, em PDF, tem que ser entregue antes da apresentação (até dia 19).
+--> tempo++, vocês terão de 10 a 15 min por grupo, exceto para os que apresentarão artigos.
+
+
+papers_data_noise: contém um ID do paper e da conferência, o ano e o status (accepted ou rejected)
+papers_subt_noise: contém o ID do sub-tópico para cada paper
+topics: Contém o nome do tópico e sub-tópico 
+
+
+topics.csv
+    aparentemente sem problemas
+    converter para minusculas                           OK
+    remover espaços antes e depois do delimitador       OK
+    remover colunas descritivas                         OK
+
+papers_subt_noise.csv
+    excluir primeira coluna                             OK
+    explodir os dados                                   OK
+    converter para minusculas                           OK
+    remover espaços antes e depois do delimitador       OK
+    remover linhas:                                     OK
+        1	4     1933
+        NA	NA
+    1570160455	52-26-9-53
+        parece ok, apesar do tamanho, é consistente com papers_data_noise.csv
+
+papers_data_noise.csv
+    excluir primeira coluna                             OK
+    remover linhas:                                     OK
+        3	4	1	acepto
+        1	4	2	rejected
+        4	3	1	**
+        1	2	4	acepto
+        NA	NA	NA	NA
+    converter para minusculas                           OK
+    1570197151	11	2015	rejected
+        parece ok apesar do tamanho, é consistente com papers_subt_noise.csv
+
+Fazer o produto cartesiano
+    papers_data_noise.csv X papers_subt_noise_EXPLODIDO.csv VIA paper                       OK
+    (papers_data_noise.csv X papers_subt_noise_EXPLODIDO.csv) X topics.csv VIA subtopics    OK
+
+Algoritmos
+    Analise dos resultados          NOK
+    Classificação e Regressão       ?
+        parecem não nos ajudar
+    Associação                      OK (falta analizar melhor todas as regras)
+    Clustering                      NOK
+        Anomalias
+
+        Número de conferencias por ano não é constante. Entre 2010 e 2012 e em 2016, foram duas conferencias por ano. Já em 2013, 2014 e 2017 apenas uma conferencia anual. E no ano de 2015 foram 3 conferencias.
+
+            year X status
+                teste <- kmeans(dados[,4,5],8)
+                teste$size
+                teste$centers
+                teste$withinss
+                table(teste$cluster, dados$conf)
+
+            conf X topic
+                teste <- kmeans(dados[,3,6],14)
+                table(teste$cluster, dados$year)
+
+
+        subtopicos 63,64,66,67,68 são novos e que o subtopico 65 não tem nenhum paper
+
+        2	 Service Management	63	 IoT Services
+        2	 Service Management	64	 Security Services
+        3	 Business Management	66	 Economic Aspects
+        6	 Technologies	67	 Software-Defined Networking
+        6	 Technologies	68	 Network Function Virtualization
+        3	 Business Management	65	 Regulatory Perspective
+            table(teste$cluster, dados$subtopics)
+
+
+        subtopicos 6, 20, 38 tem mais rejeições que aceites
+            teste <- kmeans(dados[,5,6],2)
+            teste$size
+            teste$centers
+            teste$withinss
+            table(teste$cluster, dados$subtopics)

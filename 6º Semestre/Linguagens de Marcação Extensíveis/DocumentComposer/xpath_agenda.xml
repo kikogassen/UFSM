@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<query-set>
+    <query>entrada[starts-with(telefone,'253')]</query>
+    <query>entrada[@tipo='pessoa' and starts-with(nome,'José')]</query>
+    <query>grupo[@gid]</query>
+    <query>entrada[not (@tipo='pessoa')]</query>
+</query-set>

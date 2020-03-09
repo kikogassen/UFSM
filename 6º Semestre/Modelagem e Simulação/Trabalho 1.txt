@@ -1,0 +1,12 @@
+Trabalho 1
+
+Eduardo Mossmann e Frederico H. dos S. Gassen
+
+- O tamanho da área de espera para no máximo 3 automóveis é suficiente?
+    Não, pois há momentos em que há mais de 3 carros na fila.
+
+- Qual o tempo médio de realização dos serviços?
+    41,45333333
+
+- Qual a porcentagem de tempo que o operador do lava-jato fica ocupado? Há a necessidade de contratar um operador auxiliar?
+    90,36%. Imagino que sim pois ele nunca ficou livre no meio do serviço, além do tempo alto na fila de espera.

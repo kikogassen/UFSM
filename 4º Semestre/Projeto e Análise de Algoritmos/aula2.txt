@@ -1,0 +1,66 @@
+Pseudocódigo:
+
+selecao(int vetor[], int tam)
+	para (i de 0 ate tam-2) faca           C1
+		min = i                            C2
+		para (j de i+1 ate tam-1) faca     C3
+			se (vetor[j]<num[min]) entao   C4
+				min = j                    C5
+			fimse
+		fimpara
+		aux = num[i]                       C6
+		num[i] = num[min]                  C7
+		num[min] = aux                     C8
+	fimpara
+fimfuncao
+
+Custo            Tempo
+C1               tam
+C2               tam-1
+C3               somatorio (j de 1 ate tam) j
+C4               somatorio (j de 1 ate tam-1) j
+C5               somatorio (j de 1 ate tam-1) tj
+C6               tam-1
+C7               tam-1
+C8               tam-1
+
+Explicação:
+
+Tanto para o melhor caso quanto para o pior, ele vai varrer todo o vetor duas vezes igual, mesmo estando ordenado ou não. Logo, o custo será:
+
+C = C1(tam) + C2(tam-1) + C3(n(n+1)/2) + C4(n(n+1)/2) + t*C5(n(n+1)/2) + C6(tam-1) + C7(tam-1) + C8(tam-1)
+
+Como temos um n*(n-1) no custo total, o custo será quadrático, não importando se é o pior ou melhor caso. A única diferença entre o casos é no C5, o que não interferirá no custo final.
+
+
+
+Implementação em C:
+
+void selection_sort(int num[], int tam) { 
+  int i, j, min, aux;
+  for (i = 0; i < (tam-1); i++) 
+  {
+     min = i;
+     for (j = (i+1); j < tam; j++) {
+       if(num[j] < num[min]) 
+         min = j;
+     }
+     aux = num[i];
+     num[i] = num[min];
+     num[min] = aux;
+  }
+}
+
+Loop invariante:
+
+Inicialização: na primeira iteração temos i=0. Isso indica que o vetor antes da posição i=0 já está ordenado, o que é uma verdade, pois não tem valores antes da posição 0, logo, não tem como estar desordenado
+
+Manutenção: nesse algoritmo, para cada posição do vetor, com exceção da última, ele navega dessa posição até o final do vetor para achar o menor valor e colocar na posição atual. Logo, não tem como dar erro.
+
+Término: o programa termina quando o loop chega na última posição do vetor. Ele garante que vai terminar ordenado pois todas as posições antes da última posição estará ordenado, logo, a última também estará.
+
+
+Por que precisa ser executado para os primeiros n-1 elementos?
+
+Porque se executarmos para os n-1 elementos, o último já estará na posição certa, não tem como só 1 número ficar desordenado
+
